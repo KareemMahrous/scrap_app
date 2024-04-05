@@ -45,3 +45,4 @@ class NotFoundFailure extends Failure {
   @override
   List<Object?> get props => [super.message];
 }
+
