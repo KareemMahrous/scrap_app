@@ -1,0 +1,481 @@
+{
+    "product": {
+        "status": 1,
+        "message": "success",
+        "data": {
+            "id": 441,
+            "is_fav": false,
+            "timeRemaining": {
+                "differenceInMilliseconds": 129156138,
+                "remainingTime": "1 days, 11 hours, 52 minutes, 36 seconds"
+            },
+            "name": "لوط كاوتش جامبو وملاكي",
+            "logo": "https://masafaapp.com/api/images/Product/17055201911711977278.jpeg",
+            "pdf": null,
+            "description": "<p><strong>u0644u0648u0637 u0643u0627u0648u062au0634 u062au0635u0646u064au0641u0627u062a u0645u062eu062au0644u0641u0629:</strong><br>- u0643u0627u0648u062au0634 u062cu0627u0645u0628u0648 u0639u062fu062f&nbsp; <strong>38</strong> u0643u0627u0648u062au0634<br>- u0643u0627u0648u062au0634 u0643u0644u0627u0631u0643 &nbsp;u0639u062fu062f&nbsp;&nbsp; <strong>30</strong> u0643u0627u0648u062au0634<br>- u0643u0627u0648u062au0634 u0645u062au0646u0648u0639 &nbsp;u062fu0628u0627u0628u0647 u0648u0645u0644u0627u0643u0649 &nbsp;u0639u062fu062f <strong>140</strong> u0643u0627u0648u062au0634<br>-u0645u0648u062au0648u0633u064au0643u0644 &nbsp;&nbsp;u0639u062fu062f&nbsp;&nbsp; <strong>50</strong> u0643u0627u0648u062au0634<br>- u062au0631u064au0644u0627 &nbsp;&nbsp;u0639u062fu062f&nbsp; <strong>7</strong> u0643u0627u0648u062au0634</p><p><strong>&nbsp;u0627u0644u062au062du0645u064au0644 u0645u0646 u0645u062fu064au0646u0629 u0628u0646u0647u0627</strong></p>",
+            "masafa_price": "5.00",
+            "start_price": "0.00",
+            "step_price": "0.00",
+            "quantity": "1.00",
+            "type": 2,
+            "price_type": 2,
+            "price": "0.00",
+            "website_price": "0.00",
+            "real_price": "0.00",
+            "mazad_type": 1,
+            "show_company": 0,
+            "auctions_count": 8,
+            "end_date": "2024-04-08 03:15:00",
+            "less_quantity": "1.00",
+            "high_price": "0.00",
+            "unit": {
+                "id": 16,
+                "name_ar": "u0644u0648u0637",
+                "name_en": "lot",
+                "name": "u0644u0648u0637"
+            },
+            "category": {
+                "id": 95,
+                "name_ar": "u0643u0627u0648u062au0634",
+                "name_en": "rubber",
+                "type": 2,
+                "level": 1,
+                "name": "u0643u0627u0648u062au0634",
+                "cats": []
+            },
+            "status": {
+                "id": 18,
+                "bid": 0,
+                "show_name": 1,
+                "show_price": 0,
+                "show_status": 1,
+                "show_countdown": 0,
+                "show_price_list": 0,
+                "show_price_for_seller": 1,
+                "send_message": 0,
+                "class": "danger",
+                "color": "#A00000",
+                "name_ar": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                "name_en": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                "name": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                "button_ar": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                "button_en": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                "button": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644"
+            },
+            "address": null,
+            "user": {
+                "id": 2280,
+                "name": "Atiya",
+                "image": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                "company_logo": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                "phone": "01100093738",
+                "email": "Atiya-elnaby@elarabygroup.com",
+                "company_name": "Elaraby Group",
+                "user_type": {
+                    "id": 10,
+                    "title_ar": "u0645u062eu0632u0646 u0641u0635u0644",
+                    "title_en": "junkyard",
+                    "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "level": 2,
+                    "show_price": 0,
+                    "user_count": 0,
+                    "parent_id": 1,
+                    "title": "u0645u062eu0632u0646 u0641u0635u0644",
+                    "subTypes": []
+                },
+                "status": 1,
+                "active_status": 1,
+                "active_code": 5476,
+                "password_code": 0,
+                "individual_or_company": 0,
+                "rate": 0,
+                "fire_base_token": null,
+                "commercial_register": null,
+                "tax_card": null,
+                "added_tax_number": null,
+                "electronic_invoice": null,
+                "created_at": "2024-03-22T23:32:00.000000Z",
+                "admin_login_token": null,
+                "token": null,
+                "adds": [],
+                "cats": [
+                    {
+                        "id": 47,
+                        "name_ar": "u0628u0644u0627u0633u062au064au0643",
+                        "name_en": "Plastic",
+                        "type": 2,
+                        "level": 1,
+                        "name": "u0628u0644u0627u0633u062au064au0643",
+                        "cats": [
+                            {
+                                "id": 69,
+                                "name_ar": "u0628u0644u0627u0633u062au064au0643 u0646u0627u0634u0641",
+                                "name_en": "Plastic (hard)",
+                                "type": 1,
+                                "level": 2,
+                                "name": "u0628u0644u0627u0633u062au064au0643 u0646u0627u0634u0641",
+                                "cats": []
+                            },
+                            {
+                                "id": 70,
+                                "name_ar": "u0628u0644u0627u0633u062au064au0643 u0637u0631u064a",
+                                "name_en": "(Plastic (soft",
+                                "type": 1,
+                                "level": 2,
+                                "name": "u0628u0644u0627u0633u062au064au0643 u0637u0631u064a",
+                                "cats": []
+                            },
+                            {
+                                "id": 71,
+                                "name_ar": "u0628u0644u0627u0633u062au064au0643 u0628u064a u0627u064a u062au064a",
+                                "name_en": "(Plastic (Pet",
+                                "type": 1,
+                                "level": 2,
+                                "name": "u0628u0644u0627u0633u062au064au0643 u0628u064a u0627u064a u062au064a",
+                                "cats": []
+                            },
+                            {
+                                "id": 72,
+                                "name_ar": "u0628u0644u0627u0633u062au064au0643 u0634u0641u0627u0641",
+                                "name_en": "Plastic (Clear)",
+                                "type": 1,
+                                "level": 2,
+                                "name": "u0628u0644u0627u0633u062au064au0643 u0634u0641u0627u0641",
+                                "cats": []
+                            },
+                            {
+                                "id": 73,
+                                "name_ar": "u0628u0644u0627u0633u062au064au0643 u062eu0644u064au0637 u0645u0643u0633u0631",
+                                "name_en": "Plastic (Mix)",
+                                "type": 1,
+                                "level": 2,
+                                "name": "u0628u0644u0627u0633u062au064au0643 u062eu0644u064au0637 u0645u0643u0633u0631",
+                                "cats": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 38,
+                        "name_ar": "u062eu0634u0628",
+                        "name_en": "timber",
+                        "type": 2,
+                        "level": 1,
+                        "name": "u062eu0634u0628",
+                        "cats": [
+                            {
+                                "id": 74,
+                                "name_ar": "u062eu0634u0628 u0628u0643u0631 u0643u0627u0628u0644u0627u062a",
+                                "name_en": "T",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u062eu0634u0628 u0628u0643u0631 u0643u0627u0628u0644u0627u062a",
+                                "cats": []
+                            },
+                            {
+                                "id": 75,
+                                "name_ar": "u062eu0634u0628 u0645u0648u0633u0643u064a",
+                                "name_en": "T",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u062eu0634u0628 u0645u0648u0633u0643u064a",
+                                "cats": []
+                            },
+                            {
+                                "id": 76,
+                                "name_ar": "u0646u0634u0627u0631u0629 u062eu0634u0628",
+                                "name_en": "T",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u0646u0634u0627u0631u0629 u062eu0634u0628",
+                                "cats": []
+                            },
+                            {
+                                "id": 113,
+                                "name_ar": "u062eu0634u0628 u0627u0628u064au0636",
+                                "name_en": "W",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u062eu0634u0628 u0627u0628u064au0636",
+                                "cats": []
+                            },
+                            {
+                                "id": 114,
+                                "name_ar": "u062eu0634u0628 u0627u062du0645u0631",
+                                "name_en": "W",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u062eu0634u0628 u0627u062du0645u0631",
+                                "cats": []
+                            },
+                            {
+                                "id": 115,
+                                "name_ar": "u062eu0634u0628 u0623u0631u0648",
+                                "name_en": "W",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u062eu0634u0628 u0623u0631u0648",
+                                "cats": []
+                            },
+                            {
+                                "id": 116,
+                                "name_ar": "u0628u0627u0644u062au0627u062a u0633u0639u0648u062fu064a",
+                                "name_en": "w",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u0628u0627u0644u062au0627u062a u0633u0639u0648u062fu064a",
+                                "cats": []
+                            },
+                            {
+                                "id": 117,
+                                "name_ar": "u0628u0627u0644u062au0627u062a u0645u0635u0631u064a",
+                                "name_en": "w",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u0628u0627u0644u062au0627u062a u0645u0635u0631u064a",
+                                "cats": []
+                            },
+                            {
+                                "id": 118,
+                                "name_ar": "u0628u0627u0644u062au0627u062a u0627u0633u0631u0627u0626u064au0644u064a",
+                                "name_en": "w",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u0628u0627u0644u062au0627u062a u0627u0633u0631u0627u0626u064au0644u064a",
+                                "cats": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46,
+                        "name_ar": "u0646u062du0627u0633",
+                        "name_en": "copper",
+                        "type": 2,
+                        "level": 1,
+                        "name": "u0646u062du0627u0633",
+                        "cats": [
+                            {
+                                "id": 58,
+                                "name_ar": "u0646u062du0627u0633 u0627u062du0645u0631",
+                                "name_en": "C",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u0646u062du0627u0633 u0627u062du0645u0631",
+                                "cats": []
+                            },
+                            {
+                                "id": 59,
+                                "name_ar": "u0646u062du0627u0633 u0627u0635u0641u0631",
+                                "name_en": "C",
+                                "type": 2,
+                                "level": 2,
+                                "name": "u0646u062du0627u0633 u0627u0635u0641u0631",
+                                "cats": []
+                            }
+                        ]
+                    }
+                ],
+                "mainAddress": {
+                    "id": 2101,
+                    "lat": null,
+                    "lng": null,
+                    "address": "u0642u0648u064au0633u0646u0627",
+                    "note": null,
+                    "city": {
+                        "id": 42,
+                        "name_ar": "u0627u0644u0645u0646u0648u0641u064au0647",
+                        "name_en": "menufya",
+                        "name": "u0627u0644u0645u0646u0648u0641u064au0647"
+                    }
+                }
+            },
+            "images": [
+                {
+                    "id": 796,
+                    "image": "https://masafaapp.com/api/images/Product/14199927091711977278.jpeg"
+                },
+                {
+                    "id": 797,
+                    "image": "https://masafaapp.com/api/images/Product/6572282221711977278.jpeg"
+                },
+                {
+                    "id": 798,
+                    "image": "https://masafaapp.com/api/images/Product/4146130441711977278.jpeg"
+                },
+                {
+                    "id": 799,
+                    "image": "https://masafaapp.com/api/images/Product/12718804581711977278.jpeg"
+                },
+                {
+                    "id": 800,
+                    "image": "https://masafaapp.com/api/images/Product/20006731441711977278.jpeg"
+                },
+                {
+                    "id": 801,
+                    "image": "https://masafaapp.com/api/images/Product/9084558811711977278.jpeg"
+                },
+                {
+                    "id": 802,
+                    "image": "https://masafaapp.com/api/images/Product/1041345781711977278.jpeg"
+                },
+                {
+                    "id": 803,
+                    "image": "https://masafaapp.com/api/images/Product/9965558281711977278.jpeg"
+                }
+            ],
+            "adds": [],
+            "tags": [],
+            "auctions": [
+                {
+                    "id": 417,
+                    "quantity": "1.00",
+                    "my_price": "63000.00",
+                    "total_price": "0.00",
+                    "masafa_price": "3150.00",
+                    "created_at": "u0645u0646u0630 u064au0648u0645u064au0646",
+                    "status": {
+                        "id": 12,
+                        "bid": 0,
+                        "show_name": 0,
+                        "show_price": 0,
+                        "show_status": 0,
+                        "show_countdown": 0,
+                        "show_price_list": 0,
+                        "show_price_for_seller": 0,
+                        "send_message": 0,
+                        "class": "new",
+                        "color": null,
+                        "name_ar": "u062cu062fu064au062f",
+                        "name_en": "new",
+                        "name": "u062cu062fu064au062f",
+                        "button_ar": null,
+                        "button_en": null,
+                        "button": null
+                    },
+                    "buyer": null,
+                    "seller": null,
+                    "product": null
+                },
+                {
+                    "id": 397,
+                    "quantity": "1.00",
+                    "my_price": "40000.00",
+                    "total_price": "0.00",
+                    "masafa_price": "2000.00",
+                    "created_at": "u0645u0646u0630 6 u0623u064au0627u0645",
+                    "status": {
+                        "id": 12,
+                        "bid": 0,
+                        "show_name": 0,
+                        "show_price": 0,
+                        "show_status": 0,
+                        "show_countdown": 0,
+                        "show_price_list": 0,
+                        "show_price_for_seller": 0,
+                        "send_message": 0,
+                        "class": "new",
+                        "color": null,
+                        "name_ar": "u062cu062fu064au062f",
+                        "name_en": "new",
+                        "name": "u062cu062fu064au062f",
+                        "button_ar": null,
+                        "button_en": null,
+                        "button": null
+                    },
+                    "buyer": null,
+                    "seller": null,
+                    "product": null
+                },
+                {
+                    "id": 386,
+                    "quantity": "1.00",
+                    "my_price": "30000.00",
+                    "total_price": "0.00",
+                    "masafa_price": "1500.00",
+                    "created_at": "u0645u0646u0630 u0623u0633u0628u0648u0639",
+                    "status": {
+                        "id": 12,
+                        "bid": 0,
+                        "show_name": 0,
+                        "show_price": 0,
+                        "show_status": 0,
+                        "show_countdown": 0,
+                        "show_price_list": 0,
+                        "show_price_for_seller": 0,
+                        "send_message": 0,
+                        "class": "new",
+                        "color": null,
+                        "name_ar": "u062cu062fu064au062f",
+                        "name_en": "new",
+                        "name": "u062cu062fu064au062f",
+                        "button_ar": null,
+                        "button_en": null,
+                        "button": null
+                    },
+                    "buyer": null,
+                    "seller": null,
+                    "product": null
+                },
+                {
+                    "id": 394,
+                    "quantity": "1.00",
+                    "my_price": "28000.00",
+                    "total_price": "0.00",
+                    "masafa_price": "1400.00",
+                    "created_at": "u0645u0646u0630 u0623u0633u0628u0648u0639",
+                    "status": {
+                        "id": 12,
+                        "bid": 0,
+                        "show_name": 0,
+                        "show_price": 0,
+                        "show_status": 0,
+                        "show_countdown": 0,
+                        "show_price_list": 0,
+                        "show_price_for_seller": 0,
+                        "send_message": 0,
+                        "class": "new",
+                        "color": null,
+                        "name_ar": "u062cu062fu064au062f",
+                        "name_en": "new",
+                        "name": "u062cu062fu064au062f",
+                        "button_ar": null,
+                        "button_en": null,
+                        "button": null
+                    },
+                    "buyer": null,
+                    "seller": null,
+                    "product": null
+                },
+                {
+                    "id": 383,
+                    "quantity": "1.00",
+                    "my_price": "15000.00",
+                    "total_price": "0.00",
+                    "masafa_price": "750.00",
+                    "created_at": "u0645u0646u0630 u0623u0633u0628u0648u0639",
+                    "status": {
+                        "id": 12,
+                        "bid": 0,
+                        "show_name": 0,
+                        "show_price": 0,
+                        "show_status": 0,
+                        "show_countdown": 0,
+                        "show_price_list": 0,
+                        "show_price_for_seller": 0,
+                        "send_message": 0,
+                        "class": "new",
+                        "color": null,
+                        "name_ar": "u062cu062fu064au062f",
+                        "name_en": "new",
+                        "name": "u062cu062fu064au062f",
+                        "button_ar": null,
+                        "button_en": null,
+                        "button": null
+                    },
+                    "buyer": null,
+                    "seller": null,
+                    "product": null
+                }
+            ]
+        }
+    }
+}
