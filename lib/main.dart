@@ -6,7 +6,12 @@ import 'dependency_injection.dart';
 import 'scrap_app.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   await getItInit();
   Bloc.observer = MyBlocObserver();
-  runApp(const MainApp());
+  // ProductsRepo repo = ProductsRepoImpl(source: getIt());
+  // final response = await repo.getProducts();
+
+  // log(response.fold((l) => l.message, (r) => r.data!.first.logo).toString());
+  runApp(const ScrapApp());
 }
