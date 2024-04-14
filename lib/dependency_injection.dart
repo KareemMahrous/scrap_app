@@ -10,8 +10,8 @@ final GetIt getIt = GetIt.instance;
 SharedPreferences sharedPreferences = getIt<SharedPreferences>();
 Future<void> getItInit() async {
   sharedPreferences = await SharedPreferences.getInstance();
+  await externalDependecies();
   coreDependecies();
-  externalDependecies();
 }
 
 void coreDependecies() {
