@@ -7,20 +7,18 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: SizedBox(
-        height: 800,
-        child: ListView.builder(
-            itemCount: 2,
-            itemBuilder: (context, index) {
-              return const ProductCard(
-                  label: 'label',
-                  itemName: 'itemName',
-                  description: 'description',
-                  quantity: 'طن',
-                  number: '1',
-                  color: Colors.red);
-            }),
-      ),
+      body: ListView.builder(
+          scrollDirection: Axis.horizontal,
+          itemCount: 2,
+          itemBuilder: (context, index) {
+            return const ProductCard(
+                label: 'label testtttttttttt',
+                itemName: 'itemName',
+                description: 'description ydgasudhsl',
+                quantity: 'طن',
+                number: '1',
+                color: Colors.red);
+          }),
     );
   }
 }
