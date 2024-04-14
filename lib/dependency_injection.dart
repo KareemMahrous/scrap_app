@@ -4,6 +4,7 @@ import 'package:scrap_app/data/repo/products_repo.dart';
 import 'package:scrap_app/data/sources/source_base/products_source.dart';
 import 'package:scrap_app/data/sources/source_impl/products_source_impl.dart';
 import 'package:scrap_app/domain/repo/products_repo.dart';
+import 'package:scrap_app/presentation/bloc/cubit/products_cubit.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'core/network/api_consumer.dart';
@@ -18,7 +19,7 @@ Future<void> getItInit() async {
   coreDependecies();
   sources();
   repositories();
-
+  blocs();
 }
 
 void coreDependecies() {
@@ -36,4 +37,8 @@ void sources() {
 
 void repositories() {
   getIt.registerSingleton<ProductsRepo>(ProductsRepoImpl(source: getIt()));
+}
+
+void blocs() {
+  getIt.registerFactory<ProductsCubit>(() => ProductsCubit(repo: getIt()));
 }

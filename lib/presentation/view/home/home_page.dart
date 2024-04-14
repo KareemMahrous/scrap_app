@@ -13,11 +13,11 @@ class HomePage extends StatelessWidget {
           itemCount: 2,
           itemBuilder: (context, index) {
             return const ProductCard(
-                label: 'label testtttttttttt',
-                itemName: 'itemName',
-                description: 'description ydgasudhsl',
-                quantity: 'طن',
-                number: '1',
+                label: "",
+                itemName: "",
+                description: "",
+                quantity: "",
+                number: "",
                 color: red);
           }),
     );
