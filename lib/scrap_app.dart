@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:scrap_app/presentation/view/home/home_page.dart';
 
-class MainApp extends StatelessWidget {
-  const MainApp({super.key});
+class ScrapApp extends StatelessWidget {
+  const ScrapApp({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -1,0 +1,2809 @@
+{
+    "status": 1,
+    "message": "success",
+    "data": {
+        "data": [
+            {
+                "id": 406,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 0,
+                    "remainingTime": "0 days, 0 hours, 0 minutes, 0 seconds"
+                },
+                "name": "u0645u0648u0644u062f u0643u0647u0631u0628u0627u0621 u0645u0627u0631u0643u0629 u0641u064au062a 7500 u0648u0627u062a u0645u0627u0631u0634 u0628u0647 2u0645u062eu0631u062c u0643u0647u0631u0628u0627u0621",
+                "logo": "https://masafaapp.com/api/images/Product/2133783271710836107.jpeg",
+                "pdf": null,
+                "description": "<p>&nbsp;u0645u0648u0644u062f u0643u0647u0631u0628u0627u0621 u0645u0627u0631u0643u0629 u0641u064au062a 7500 u0648u0627u062a u0645u0627u0631u0634 u0628u0647 2u0645u062eu0631u062c u0643u0647u0631u0628u0627u0621 u0648u0645u0644u0641u0627u062a u0646u062du0627u0633<br>u0645u0635u062fu0631 u0627u0644u0637u0627u0642u0629: u0628u0646u0632u064au0646</p>",
+                "masafa_price": "10.00",
+                "start_price": "22000.00",
+                "step_price": "500.00",
+                "quantity": "1.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 2,
+                "show_company": 1,
+                "auctions_count": 0,
+                "end_date": null,
+                "less_quantity": "1.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 15,
+                    "name_ar": "u0642u0637u0639u0629",
+                    "name_en": "Piece",
+                    "name": "u0642u0637u0639u0629"
+                },
+                "category": {
+                    "id": 124,
+                    "name_ar": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                    "name_en": "Tools",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                    "cats": []
+                },
+                "status": {
+                    "id": 2,
+                    "bid": 1,
+                    "show_name": 0,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 1,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 1,
+                    "class": "active",
+                    "color": null,
+                    "name_ar": "u0645u0641u0639u0644",
+                    "name_en": "u0645u0641u0639u0644",
+                    "name": "u0645u0641u0639u0644",
+                    "button_ar": "u0632u0627u064au062f u0627u0644u0627u0646",
+                    "button_en": "u0632u0627u064au062f u0627u0644u0627u0646",
+                    "button": "u0632u0627u064au062f u0627u0644u0627u0646"
+                },
+                "address": null,
+                "user": {
+                    "id": 110,
+                    "name": "Masafa",
+                    "image": "https://masafaapp.com/api/images/User/15321782061700570464.png",
+                    "company_logo": "https://masafaapp.com/api/images/User/1560462401700570464.png",
+                    "phone": "01148190116",
+                    "email": "founders@masafaapp.com",
+                    "company_name": "Masafa",
+                    "user_type": {
+                        "id": 2,
+                        "title_ar": "u0645u0634u062au0631u064a",
+                        "title_en": "Buyer",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 1,
+                        "show_price": 1,
+                        "user_count": 0,
+                        "parent_id": 0,
+                        "title": "u0645u0634u062au0631u064a",
+                        "subTypes": [
+                            {
+                                "id": 6,
+                                "title_ar": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
+                                "title_en": "electrical supplier",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 7,
+                                "title_ar": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
+                                "title_en": "plumbing",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 8,
+                                "title_ar": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
+                                "title_en": "general supplier",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 11,
+                                "title_ar": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
+                                "title_en": "pallets Factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 12,
+                                "title_ar": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
+                                "title_en": "scrapper",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 13,
+                                "title_ar": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
+                                "title_en": "Clamps",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 14,
+                                "title_ar": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
+                                "title_en": "Pastic pipes",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 15,
+                                "title_ar": "u0645u0635u0646u0639 u0635u0647u0631",
+                                "title_en": "Melting factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0635u0647u0631",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 17,
+                                "title_ar": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
+                                "title_en": "wood pressing factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 18,
+                                "title_ar": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "plastic crushing",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 19,
+                                "title_ar": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "plastic fabrication",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 20,
+                                "title_ar": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "Recycling factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 21,
+                                "title_ar": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
+                                "title_en": "tyres centre",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 22,
+                                "title_ar": "u0645u0642u0627u0648u0644 u0647u062fu0645",
+                                "title_en": "destruction contrator",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 23,
+                                "title_ar": "u0643u0631u0641u0627u0646u0627u062a",
+                                "title_en": "karavans",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0643u0631u0641u0627u0646u0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 25,
+                                "title_ar": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
+                                "title_en": "a",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 27,
+                                "title_ar": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                                "title_en": "a",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 28,
+                                "title_ar": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
+                                "title_en": "Air conditioning dealer",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
+                                "subTypes": []
+                            }
+                        ]
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 2,
+                    "rate": 5,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2023-11-04T10:44:11.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [
+                        {
+                            "id": 427,
+                            "key": "",
+                            "value": ""
+                        }
+                    ],
+                    "cats": [],
+                    "mainAddress": {
+                        "id": 1913,
+                        "lat": null,
+                        "lng": null,
+                        "address": "u0645u0639u0627u062fu064a",
+                        "note": null,
+                        "city": {
+                            "id": 38,
+                            "name_ar": "u0645u0631u0633u064a u0645u0637u0631u0648u062d",
+                            "name_en": "Marsa matrouh",
+                            "name": "u0645u0631u0633u064a u0645u0637u0631u0648u062d"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 687,
+                        "image": "https://masafaapp.com/api/images/Product/15690755301710836107.jpeg"
+                    }
+                ],
+                "adds": [],
+                "tags": []
+            },
+            {
+                "id": 424,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 0,
+                    "remainingTime": "0 days, 0 hours, 0 minutes, 0 seconds"
+                },
+                "name": "u0642u0627u0637u0639 u062du0645u0627u064au0629 u0645u0646 u0627u0644u062au0633u0631u0628 u0627u0644u0627u0631u0636u064a u0648 u0642u0635u0631 u0627u0644u062fu0627u0626u0631u0629, u0627u062du0627u062fu064a 16u0627u0645u0628u064au0631",
+                "logo": "https://masafaapp.com/api/images/Product/3268496241711376134.jpg",
+                "pdf": null,
+                "description": "<ul><li>u0642u0627u0637u0639 u0627u0644u062fu0627u0626u0631u0647 u0627u0644u0645u0635u063au0631</li><li><strong>S202C</strong></li><li>&nbsp;u062cu0647u0627u0632 <strong>2P</strong> u0641u064a u0648u062du062fu0629 u0648u0627u062du062fu0629 u0644u062du0645u0627u064au0629 u0627u0644u062fu0648u0627u0626u0631 u0636u062f u0627u0644u062du0645u0644 u0627u0644u0632u0627u0626u062f u0648u0627u0644u062fu0648u0627u0626u0631 u0627u0644u0642u0635u064au0631u0629..</li></ul>",
+                "masafa_price": "15.00",
+                "start_price": "2200.00",
+                "step_price": "0.00",
+                "quantity": "500.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "2200.00",
+                "website_price": "2530.00",
+                "real_price": "3250.00",
+                "mazad_type": 2,
+                "show_company": 1,
+                "auctions_count": 3,
+                "end_date": null,
+                "less_quantity": "10.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 15,
+                    "name_ar": "u0642u0637u0639u0629",
+                    "name_en": "Piece",
+                    "name": "u0642u0637u0639u0629"
+                },
+                "category": {
+                    "id": 77,
+                    "name_ar": "u0643u0647u0631u0628u0627u0621",
+                    "name_en": "Electrical",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u0643u0647u0631u0628u0627u0621",
+                    "cats": []
+                },
+                "status": {
+                    "id": 22,
+                    "bid": 1,
+                    "show_name": 0,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 0,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 0,
+                    "send_message": 0,
+                    "class": "active",
+                    "color": null,
+                    "name_ar": "u0645u0641u0639u0644 u062au062cu0645u064au0639 u062au062cu0627u0631",
+                    "name_en": "u0645u0641u0639u0644 u062au062cu0645u064au0639 u062au062cu0627u0631",
+                    "name": "u0645u0641u0639u0644 u062au062cu0645u064au0639 u062au062cu0627u0631",
+                    "button_ar": "u0632u0627u064au062f u0627u0644u0627u0646",
+                    "button_en": "u0632u0627u064au062f u0627u0644u0627u0646",
+                    "button": "u0632u0627u064au062f u0627u0644u0627u0646"
+                },
+                "address": null,
+                "user": {
+                    "id": 110,
+                    "name": "Masafa",
+                    "image": "https://masafaapp.com/api/images/User/15321782061700570464.png",
+                    "company_logo": "https://masafaapp.com/api/images/User/1560462401700570464.png",
+                    "phone": "01148190116",
+                    "email": "founders@masafaapp.com",
+                    "company_name": "Masafa",
+                    "user_type": {
+                        "id": 2,
+                        "title_ar": "u0645u0634u062au0631u064a",
+                        "title_en": "Buyer",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 1,
+                        "show_price": 1,
+                        "user_count": 0,
+                        "parent_id": 0,
+                        "title": "u0645u0634u062au0631u064a",
+                        "subTypes": [
+                            {
+                                "id": 6,
+                                "title_ar": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
+                                "title_en": "electrical supplier",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 7,
+                                "title_ar": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
+                                "title_en": "plumbing",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 8,
+                                "title_ar": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
+                                "title_en": "general supplier",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 11,
+                                "title_ar": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
+                                "title_en": "pallets Factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 12,
+                                "title_ar": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
+                                "title_en": "scrapper",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 13,
+                                "title_ar": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
+                                "title_en": "Clamps",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 14,
+                                "title_ar": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
+                                "title_en": "Pastic pipes",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 15,
+                                "title_ar": "u0645u0635u0646u0639 u0635u0647u0631",
+                                "title_en": "Melting factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0635u0647u0631",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 17,
+                                "title_ar": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
+                                "title_en": "wood pressing factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 18,
+                                "title_ar": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "plastic crushing",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 19,
+                                "title_ar": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "plastic fabrication",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 20,
+                                "title_ar": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "Recycling factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 21,
+                                "title_ar": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
+                                "title_en": "tyres centre",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 22,
+                                "title_ar": "u0645u0642u0627u0648u0644 u0647u062fu0645",
+                                "title_en": "destruction contrator",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 23,
+                                "title_ar": "u0643u0631u0641u0627u0646u0627u062a",
+                                "title_en": "karavans",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0643u0631u0641u0627u0646u0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 25,
+                                "title_ar": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
+                                "title_en": "a",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 27,
+                                "title_ar": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                                "title_en": "a",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 28,
+                                "title_ar": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
+                                "title_en": "Air conditioning dealer",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
+                                "subTypes": []
+                            }
+                        ]
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 2,
+                    "rate": 5,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2023-11-04T10:44:11.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [
+                        {
+                            "id": 427,
+                            "key": "",
+                            "value": ""
+                        }
+                    ],
+                    "cats": [],
+                    "mainAddress": {
+                        "id": 1913,
+                        "lat": null,
+                        "lng": null,
+                        "address": "u0645u0639u0627u062fu064a",
+                        "note": null,
+                        "city": {
+                            "id": 38,
+                            "name_ar": "u0645u0631u0633u064a u0645u0637u0631u0648u062d",
+                            "name_en": "Marsa matrouh",
+                            "name": "u0645u0631u0633u064a u0645u0637u0631u0648u062d"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 745,
+                        "image": "https://masafaapp.com/api/images/Product/11676130661711376134.jpg"
+                    },
+                    {
+                        "id": 746,
+                        "image": "https://masafaapp.com/api/images/Product/19771814291711376134.jpg"
+                    },
+                    {
+                        "id": 747,
+                        "image": "https://masafaapp.com/api/images/Product/12739121311711376134.jpg"
+                    },
+                    {
+                        "id": 748,
+                        "image": "https://masafaapp.com/api/images/Product/6686772261711376134.jpg"
+                    },
+                    {
+                        "id": 757,
+                        "image": "https://masafaapp.com/api/images/Product/431916891711388144.png"
+                    }
+                ],
+                "adds": [
+                    {
+                        "id": 110,
+                        "key": "u0627u0644u0645u0648u0642u0639 ",
+                        "value": "u0627u0644u0627u0633u0643u0646u062fu0631u064au0647"
+                    }
+                ],
+                "tags": []
+            },
+            {
+                "id": 354,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 1857728645,
+                    "remainingTime": "21 days, 12 hours, 2 minutes, 8 seconds"
+                },
+                "name": "u0643u0627u0628u0644u0627u062a u0627u0644u0633u0648u064au062fu064a u0627u0635u0644u064a 10u0645u0645 (CU/PVC 450/740V)",
+                "logo": "https://masafaapp.com/api/images/Product/3810805001709828248.jpeg",
+                "pdf": null,
+                "description": "<p>(CU/PVC 450/740V)u0643u0627u0628u0644u0627u062a u0627u0644u0633u0648u064au062fu064a u0627u0635u0644u064a 10u0645u0645</p><p>&nbsp; u0627u0644u0644u0641u0647: 100 u0645u062au0631&nbsp;<br>u062au0627u0631u064au062e u0627u0644u0635u0646u0639: 18/6/2022</p>",
+                "masafa_price": "5.00",
+                "start_price": "45.00",
+                "step_price": "2.00",
+                "quantity": "600.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 2,
+                "show_company": 1,
+                "auctions_count": 6,
+                "end_date": "2024-03-19 03:15:00",
+                "less_quantity": "600.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 12,
+                    "name_ar": "u0645u062au0631 u0637u0648u0644u064a",
+                    "name_en": "M",
+                    "name": "u0645u062au0631 u0637u0648u0644u064a"
+                },
+                "category": {
+                    "id": 103,
+                    "name_ar": "u0643u0627u0628u0644u0627u062a",
+                    "name_en": "Cables",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u0643u0627u0628u0644u0627u062a",
+                    "cats": []
+                },
+                "status": {
+                    "id": 2,
+                    "bid": 1,
+                    "show_name": 0,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 1,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 1,
+                    "class": "active",
+                    "color": null,
+                    "name_ar": "u0645u0641u0639u0644",
+                    "name_en": "u0645u0641u0639u0644",
+                    "name": "u0645u0641u0639u0644",
+                    "button_ar": "u0632u0627u064au062f u0627u0644u0627u0646",
+                    "button_en": "u0632u0627u064au062f u0627u0644u0627u0646",
+                    "button": "u0632u0627u064au062f u0627u0644u0627u0646"
+                },
+                "address": {
+                    "id": 1771,
+                    "lat": null,
+                    "lng": null,
+                    "address": "Building 498 Gardina City , Zahraa Nasr City",
+                    "note": null,
+                    "city": {
+                        "id": 27,
+                        "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                        "name_en": "Cairo",
+                        "name": "u0627u0644u0642u0627u0647u0631u0647"
+                    }
+                },
+                "user": {
+                    "id": 1958,
+                    "name": "Nagy Bassim Nagy",
+                    "image": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "company_logo": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "phone": "01022466655",
+                    "email": "nagy.elkhouly@invopro.net",
+                    "company_name": "InvoPro",
+                    "user_type": {
+                        "id": 9,
+                        "title_ar": "u0645u0642u0627u0648u0644u0627u062a",
+                        "title_en": "contractors",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 2,
+                        "show_price": 0,
+                        "user_count": 0,
+                        "parent_id": 1,
+                        "title": "u0645u0642u0627u0648u0644u0627u062a",
+                        "subTypes": []
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 0,
+                    "rate": 0,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2024-03-05T17:07:11.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [],
+                    "cats": [
+                        {
+                            "id": 103,
+                            "name_ar": "u0643u0627u0628u0644u0627u062a",
+                            "name_en": "Cables",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0643u0627u0628u0644u0627u062a",
+                            "cats": []
+                        },
+                        {
+                            "id": 48,
+                            "name_ar": "u062du062fu064au062f",
+                            "name_en": "Iron",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u062du062fu064au062f",
+                            "cats": [
+                                {
+                                    "id": 49,
+                                    "name_ar": "u062au0633u0644u064au062d",
+                                    "name_en": "tasl",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u062au0633u0644u064au062d",
+                                    "cats": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 109,
+                            "name_ar": "u0643u0627u0628u0644u0627u062a",
+                            "name_en": "Cables",
+                            "type": 2,
+                            "level": 1,
+                            "name": "u0643u0627u0628u0644u0627u062a",
+                            "cats": [
+                                {
+                                    "id": 110,
+                                    "name_ar": "u0643u0627u0628u0644u0627u062a u0646u062du0627u0633",
+                                    "name_en": "Copper cables",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u0643u0627u0628u0644u0627u062a u0646u062du0627u0633",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 111,
+                                    "name_ar": "u0643u0627u0628u0644u0627u062a u0627u0644u0648u0645u0646u064au0648u0645",
+                                    "name_en": "Aluminum cables",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u0643u0627u0628u0644u0627u062a u0627u0644u0648u0645u0646u064au0648u0645",
+                                    "cats": []
+                                }
+                            ]
+                        }
+                    ],
+                    "mainAddress": {
+                        "id": 1771,
+                        "lat": null,
+                        "lng": null,
+                        "address": "Building 498 Gardina City , Zahraa Nasr City",
+                        "note": null,
+                        "city": {
+                            "id": 27,
+                            "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                            "name_en": "Cairo",
+                            "name": "u0627u0644u0642u0627u0647u0631u0647"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 559,
+                        "image": "https://masafaapp.com/api/images/Product/7530465451709828248.jpeg"
+                    },
+                    {
+                        "id": 560,
+                        "image": "https://masafaapp.com/api/images/Product/15632597991709828248.jpeg"
+                    },
+                    {
+                        "id": 561,
+                        "image": "https://masafaapp.com/api/images/Product/10922652291709828248.jpeg"
+                    },
+                    {
+                        "id": 562,
+                        "image": "https://masafaapp.com/api/images/Product/9746075601709828248.jpeg"
+                    }
+                ],
+                "adds": [],
+                "tags": []
+            },
+            {
+                "id": 403,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 0,
+                    "remainingTime": "0 days, 0 hours, 0 minutes, 0 seconds"
+                },
+                "name": "u0641u064au0634u0631 u0627u0643u0645u0648u0646 u0645u0639u062fu0646 u0645u062cu0644u0641u0646 u0644u0648u0646 u0646u062du0627u0633u064a 6 u0645u0644u0644u0645 u063au064au0631 u0642u0627u0628u0644 u0644u0644u0635u062fu0623.",
+                "logo": "https://masafaapp.com/api/images/Product/13929357851710814958.jpeg",
+                "pdf": null,
+                "description": "u0641u064au0634u0631 u0627u0643u0645u0648u0646 u0645u0639u062fu0646 u0645u062cu0644u0641u0646 u0644u0648u0646 u0646u062du0627u0633u064a 6 u0645u0644u0644u0645 u063au064au0631 u0642u0627u0628u0644 u0644u0644u0635u062fu0623.rnu0635u0646u0627u0639u0629 u0627u0644u0635u064au0646rnu0627u0644u062du0627u0644u0629: u062cu062fu064au062f u0644u0645 u064au0633u062au062eu062fu0645",
+                "masafa_price": "10.00",
+                "start_price": "60.00",
+                "step_price": "0.00",
+                "quantity": "4000.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 2,
+                "show_company": 1,
+                "auctions_count": 1,
+                "end_date": null,
+                "less_quantity": "20.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 18,
+                    "name_ar": "u0639u0644u0628u0629",
+                    "name_en": "a",
+                    "name": "u0639u0644u0628u0629"
+                },
+                "category": {
+                    "id": 121,
+                    "name_ar": "u0645u0633u062au0644u0632u0645u0627u062a u0627u0644u0648u0631u0634 u0648u0627u0644u0645u0635u0627u0646u0639",
+                    "name_en": "Industrial",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u0645u0633u062au0644u0632u0645u0627u062a u0627u0644u0648u0631u0634 u0648u0627u0644u0645u0635u0627u0646u0639",
+                    "cats": [
+                        {
+                            "id": 122,
+                            "name_ar": "u0627u0633u0644u0627u0643 u0644u062du0627u0645",
+                            "name_en": "a",
+                            "type": 1,
+                            "level": 2,
+                            "name": "u0627u0633u0644u0627u0643 u0644u062du0627u0645",
+                            "cats": []
+                        },
+                        {
+                            "id": 123,
+                            "name_ar": "u0627u062du062cu0627u0631 u0642u0637u0639 u0648u062cu0644u062e",
+                            "name_en": "a",
+                            "type": 1,
+                            "level": 2,
+                            "name": "u0627u062du062cu0627u0631 u0642u0637u0639 u0648u062cu0644u062e",
+                            "cats": []
+                        }
+                    ]
+                },
+                "status": {
+                    "id": 2,
+                    "bid": 1,
+                    "show_name": 0,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 1,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 1,
+                    "class": "active",
+                    "color": null,
+                    "name_ar": "u0645u0641u0639u0644",
+                    "name_en": "u0645u0641u0639u0644",
+                    "name": "u0645u0641u0639u0644",
+                    "button_ar": "u0632u0627u064au062f u0627u0644u0627u0646",
+                    "button_en": "u0632u0627u064au062f u0627u0644u0627u0646",
+                    "button": "u0632u0627u064au062f u0627u0644u0627u0646"
+                },
+                "address": null,
+                "user": {
+                    "id": 110,
+                    "name": "Masafa",
+                    "image": "https://masafaapp.com/api/images/User/15321782061700570464.png",
+                    "company_logo": "https://masafaapp.com/api/images/User/1560462401700570464.png",
+                    "phone": "01148190116",
+                    "email": "founders@masafaapp.com",
+                    "company_name": "Masafa",
+                    "user_type": {
+                        "id": 2,
+                        "title_ar": "u0645u0634u062au0631u064a",
+                        "title_en": "Buyer",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 1,
+                        "show_price": 1,
+                        "user_count": 0,
+                        "parent_id": 0,
+                        "title": "u0645u0634u062au0631u064a",
+                        "subTypes": [
+                            {
+                                "id": 6,
+                                "title_ar": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
+                                "title_en": "electrical supplier",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 7,
+                                "title_ar": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
+                                "title_en": "plumbing",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 8,
+                                "title_ar": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
+                                "title_en": "general supplier",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 11,
+                                "title_ar": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
+                                "title_en": "pallets Factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 12,
+                                "title_ar": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
+                                "title_en": "scrapper",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 13,
+                                "title_ar": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
+                                "title_en": "Clamps",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 14,
+                                "title_ar": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
+                                "title_en": "Pastic pipes",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 15,
+                                "title_ar": "u0645u0635u0646u0639 u0635u0647u0631",
+                                "title_en": "Melting factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0635u0647u0631",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 17,
+                                "title_ar": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
+                                "title_en": "wood pressing factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 18,
+                                "title_ar": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "plastic crushing",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 19,
+                                "title_ar": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "plastic fabrication",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 20,
+                                "title_ar": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "Recycling factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 21,
+                                "title_ar": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
+                                "title_en": "tyres centre",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 22,
+                                "title_ar": "u0645u0642u0627u0648u0644 u0647u062fu0645",
+                                "title_en": "destruction contrator",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 23,
+                                "title_ar": "u0643u0631u0641u0627u0646u0627u062a",
+                                "title_en": "karavans",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0643u0631u0641u0627u0646u0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 25,
+                                "title_ar": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
+                                "title_en": "a",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 27,
+                                "title_ar": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                                "title_en": "a",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 28,
+                                "title_ar": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
+                                "title_en": "Air conditioning dealer",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
+                                "subTypes": []
+                            }
+                        ]
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 2,
+                    "rate": 5,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2023-11-04T10:44:11.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [
+                        {
+                            "id": 427,
+                            "key": "",
+                            "value": ""
+                        }
+                    ],
+                    "cats": [],
+                    "mainAddress": {
+                        "id": 1913,
+                        "lat": null,
+                        "lng": null,
+                        "address": "u0645u0639u0627u062fu064a",
+                        "note": null,
+                        "city": {
+                            "id": 38,
+                            "name_ar": "u0645u0631u0633u064a u0645u0637u0631u0648u062d",
+                            "name_en": "Marsa matrouh",
+                            "name": "u0645u0631u0633u064a u0645u0637u0631u0648u062d"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 680,
+                        "image": "https://masafaapp.com/api/images/Product/19385528441710814958.jpeg"
+                    },
+                    {
+                        "id": 681,
+                        "image": "https://masafaapp.com/api/images/Product/6739081571710814958.jpeg"
+                    },
+                    {
+                        "id": 682,
+                        "image": "https://masafaapp.com/api/images/Product/14451352381710814958.jpeg"
+                    },
+                    {
+                        "id": 683,
+                        "image": "https://masafaapp.com/api/images/Product/734666731710814958.jpeg"
+                    },
+                    {
+                        "id": 684,
+                        "image": "https://masafaapp.com/api/images/Product/3530668281710814958.jpeg"
+                    }
+                ],
+                "adds": [],
+                "tags": []
+            },
+            {
+                "id": 377,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 1642628663,
+                    "remainingTime": "19 days, 0 hours, 17 minutes, 8 seconds"
+                },
+                "name": "u0627u0631u0641u0641 u0648u0627u0633u062au0627u0646u062fu0627u062a u0635u0627u062c",
+                "logo": "https://masafaapp.com/api/images/Product/2911275121710533035.jpg",
+                "pdf": null,
+                "description": "u0627u0631u0641u0641 u0648u0627u0633u062au0627u0646u062fu0627u062a u0642u0648u0627u064au0645  u0635u0627u062c u0645u0633u062au0639u0645u0644u0647",
+                "masafa_price": "8.00",
+                "start_price": "20000.00",
+                "step_price": "1000.00",
+                "quantity": "5.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 1,
+                "show_company": 0,
+                "auctions_count": 4,
+                "end_date": "2024-03-21 15:00:00",
+                "less_quantity": "5.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 3,
+                    "name_ar": "u0637u0646",
+                    "name_en": "ton",
+                    "name": "u0637u0646"
+                },
+                "category": {
+                    "id": 53,
+                    "name_ar": "u062du062fu064au062f u062eu0644u064au0637",
+                    "name_en": "Mixture Steel",
+                    "type": 1,
+                    "level": 2,
+                    "name": "u062du062fu064au062f u062eu0644u064au0637",
+                    "cats": []
+                },
+                "status": {
+                    "id": 18,
+                    "bid": 0,
+                    "show_name": 1,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 0,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 0,
+                    "class": "danger",
+                    "color": "#A00000",
+                    "name_ar": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name_en": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "button_ar": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button_en": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644"
+                },
+                "address": {
+                    "id": 1775,
+                    "lat": null,
+                    "lng": null,
+                    "address": "u064328 u0628u062cu0648u0627u0631 u0627u0644u0642u0631u064au0647 u0627u0644u0630u0643u064au0647",
+                    "note": null,
+                    "city": {
+                        "id": 27,
+                        "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                        "name_en": "Cairo",
+                        "name": "u0627u0644u0642u0627u0647u0631u0647"
+                    }
+                },
+                "user": {
+                    "id": 1962,
+                    "name": "u0645u062du0645u062f u062du0633u064au0646",
+                    "image": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "company_logo": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "phone": "01116655971",
+                    "email": "mohamed.hussin@ho-ucp.com",
+                    "company_name": "u0627u0644u0645u062au062du062fu0647 u0644u0644u0635u064au0627u062fu0644u0629",
+                    "user_type": {
+                        "id": 10,
+                        "title_ar": "u0645u062eu0632u0646 u0641u0635u0644",
+                        "title_en": "junkyard",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 2,
+                        "show_price": 0,
+                        "user_count": 0,
+                        "parent_id": 1,
+                        "title": "u0645u062eu0632u0646 u0641u0635u0644",
+                        "subTypes": []
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 0,
+                    "rate": 0,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2024-03-05T18:18:57.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [],
+                    "cats": [
+                        {
+                            "id": 90,
+                            "name_ar": "u062du062fu064au062f u0648u0635u0627u062c",
+                            "name_en": "steel",
+                            "type": 2,
+                            "level": 1,
+                            "name": "u062du062fu064au062f u0648u0635u0627u062c",
+                            "cats": [
+                                {
+                                    "id": 91,
+                                    "name_ar": "u062du062fu064au062f u0632u0647u0631",
+                                    "name_en": "cast iron",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062du062fu064au062f u0632u0647u0631",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 92,
+                                    "name_ar": "u0635u0627u062c",
+                                    "name_en": "steel coils",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u0635u0627u062c",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 93,
+                                    "name_ar": "u062du062fu064au062f u062eu0644u064au0637",
+                                    "name_en": "mix iron",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062du062fu064au062f u062eu0644u064au0637",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 106,
+                                    "name_ar": "u0646u062du0627u0633",
+                                    "name_en": "Bruss",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u0646u062du0627u0633",
+                                    "cats": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 101,
+                            "name_ar": "u0627u062cu0647u0632u0629 u0627u0644u0643u062au0631u0648u0646u064au0629",
+                            "name_en": "Electrical devices",
+                            "type": 2,
+                            "level": 1,
+                            "name": "u0627u062cu0647u0632u0629 u0627u0644u0643u062au0631u0648u0646u064au0629",
+                            "cats": []
+                        },
+                        {
+                            "id": 38,
+                            "name_ar": "u062eu0634u0628",
+                            "name_en": "timber",
+                            "type": 2,
+                            "level": 1,
+                            "name": "u062eu0634u0628",
+                            "cats": [
+                                {
+                                    "id": 74,
+                                    "name_ar": "u062eu0634u0628 u0628u0643u0631 u0643u0627u0628u0644u0627u062a",
+                                    "name_en": "T",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062eu0634u0628 u0628u0643u0631 u0643u0627u0628u0644u0627u062a",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 75,
+                                    "name_ar": "u062eu0634u0628 u0645u0648u0633u0643u064a",
+                                    "name_en": "T",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062eu0634u0628 u0645u0648u0633u0643u064a",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 76,
+                                    "name_ar": "u0646u0634u0627u0631u0629 u062eu0634u0628",
+                                    "name_en": "T",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u0646u0634u0627u0631u0629 u062eu0634u0628",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 113,
+                                    "name_ar": "u062eu0634u0628 u0627u0628u064au0636",
+                                    "name_en": "W",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062eu0634u0628 u0627u0628u064au0636",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 114,
+                                    "name_ar": "u062eu0634u0628 u0627u062du0645u0631",
+                                    "name_en": "W",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062eu0634u0628 u0627u062du0645u0631",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 115,
+                                    "name_ar": "u062eu0634u0628 u0623u0631u0648",
+                                    "name_en": "W",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062eu0634u0628 u0623u0631u0648",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 116,
+                                    "name_ar": "u0628u0627u0644u062au0627u062a u0633u0639u0648u062fu064a",
+                                    "name_en": "w",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u0628u0627u0644u062au0627u062a u0633u0639u0648u062fu064a",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 117,
+                                    "name_ar": "u0628u0627u0644u062au0627u062a u0645u0635u0631u064a",
+                                    "name_en": "w",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u0628u0627u0644u062au0627u062a u0645u0635u0631u064a",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 118,
+                                    "name_ar": "u0628u0627u0644u062au0627u062a u0627u0633u0631u0627u0626u064au0644u064a",
+                                    "name_en": "w",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u0628u0627u0644u062au0627u062a u0627u0633u0631u0627u0626u064au0644u064a",
+                                    "cats": []
+                                }
+                            ]
+                        }
+                    ],
+                    "mainAddress": {
+                        "id": 1775,
+                        "lat": null,
+                        "lng": null,
+                        "address": "u064328 u0628u062cu0648u0627u0631 u0627u0644u0642u0631u064au0647 u0627u0644u0630u0643u064au0647",
+                        "note": null,
+                        "city": {
+                            "id": 27,
+                            "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                            "name_en": "Cairo",
+                            "name": "u0627u0644u0642u0627u0647u0631u0647"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 608,
+                        "image": "https://masafaapp.com/api/images/Product/14632919671710533035.jpg"
+                    },
+                    {
+                        "id": 609,
+                        "image": "https://masafaapp.com/api/images/Product/16307156661710533035.jpg"
+                    },
+                    {
+                        "id": 610,
+                        "image": "https://masafaapp.com/api/images/Product/12762759311710533035.jpg"
+                    },
+                    {
+                        "id": 611,
+                        "image": "https://masafaapp.com/api/images/Product/11407217501710533035.jpg"
+                    },
+                    {
+                        "id": 612,
+                        "image": "https://masafaapp.com/api/images/Product/13793896921710533035.jpg"
+                    },
+                    {
+                        "id": 613,
+                        "image": "https://masafaapp.com/api/images/Product/12461369161710533035.jpg"
+                    }
+                ],
+                "adds": [],
+                "tags": []
+            },
+            {
+                "id": 199,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 1993770674,
+                    "remainingTime": "23 days, 1 hours, 49 minutes, 30 seconds"
+                },
+                "name": "u062cu0644u0627u0646u062fu0647 u0642u0637u0631 u0664u0660 u0645u0644u0644",
+                "logo": "https://masafaapp.com/api/images/Product/20059595001700655589.jpg",
+                "pdf": null,
+                "description": "u062cu0644u0627u0646u062fu0647 u0642u0637u0631 u0664u0660 u0645u0644u0644 rnpvc",
+                "masafa_price": "10.00",
+                "start_price": "0.00",
+                "step_price": "0.00",
+                "quantity": "3000.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 1,
+                "show_company": 1,
+                "auctions_count": 5,
+                "end_date": "2024-03-17 13:27:38",
+                "less_quantity": "101.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 15,
+                    "name_ar": "u0642u0637u0639u0629",
+                    "name_en": "Piece",
+                    "name": "u0642u0637u0639u0629"
+                },
+                "category": {
+                    "id": 77,
+                    "name_ar": "u0643u0647u0631u0628u0627u0621",
+                    "name_en": "Electrical",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u0643u0647u0631u0628u0627u0621",
+                    "cats": []
+                },
+                "status": {
+                    "id": 18,
+                    "bid": 0,
+                    "show_name": 1,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 0,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 0,
+                    "class": "danger",
+                    "color": "#A00000",
+                    "name_ar": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name_en": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "button_ar": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button_en": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644"
+                },
+                "address": {
+                    "id": 45,
+                    "lat": null,
+                    "lng": null,
+                    "address": "cairo",
+                    "note": null,
+                    "city": {
+                        "id": 27,
+                        "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                        "name_en": "Cairo",
+                        "name": "u0627u0644u0642u0627u0647u0631u0647"
+                    }
+                },
+                "user": {
+                    "id": 110,
+                    "name": "Masafa",
+                    "image": "https://masafaapp.com/api/images/User/15321782061700570464.png",
+                    "company_logo": "https://masafaapp.com/api/images/User/1560462401700570464.png",
+                    "phone": "01148190116",
+                    "email": "founders@masafaapp.com",
+                    "company_name": "Masafa",
+                    "user_type": {
+                        "id": 2,
+                        "title_ar": "u0645u0634u062au0631u064a",
+                        "title_en": "Buyer",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 1,
+                        "show_price": 1,
+                        "user_count": 0,
+                        "parent_id": 0,
+                        "title": "u0645u0634u062au0631u064a",
+                        "subTypes": [
+                            {
+                                "id": 6,
+                                "title_ar": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
+                                "title_en": "electrical supplier",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 7,
+                                "title_ar": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
+                                "title_en": "plumbing",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 8,
+                                "title_ar": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
+                                "title_en": "general supplier",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 11,
+                                "title_ar": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
+                                "title_en": "pallets Factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 12,
+                                "title_ar": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
+                                "title_en": "scrapper",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 13,
+                                "title_ar": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
+                                "title_en": "Clamps",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 14,
+                                "title_ar": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
+                                "title_en": "Pastic pipes",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 15,
+                                "title_ar": "u0645u0635u0646u0639 u0635u0647u0631",
+                                "title_en": "Melting factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0635u0647u0631",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 17,
+                                "title_ar": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
+                                "title_en": "wood pressing factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 18,
+                                "title_ar": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "plastic crushing",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 19,
+                                "title_ar": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "plastic fabrication",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 20,
+                                "title_ar": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
+                                "title_en": "Recycling factory",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 21,
+                                "title_ar": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
+                                "title_en": "tyres centre",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 22,
+                                "title_ar": "u0645u0642u0627u0648u0644 u0647u062fu0645",
+                                "title_en": "destruction contrator",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 23,
+                                "title_ar": "u0643u0631u0641u0627u0646u0627u062a",
+                                "title_en": "karavans",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0643u0631u0641u0627u0646u0627u062a",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 25,
+                                "title_ar": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
+                                "title_en": "a",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 27,
+                                "title_ar": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                                "title_en": "a",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
+                                "subTypes": []
+                            },
+                            {
+                                "id": 28,
+                                "title_ar": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
+                                "title_en": "Air conditioning dealer",
+                                "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                                "level": 2,
+                                "show_price": 0,
+                                "user_count": 0,
+                                "parent_id": 2,
+                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
+                                "subTypes": []
+                            }
+                        ]
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 2,
+                    "rate": 5,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2023-11-04T10:44:11.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [
+                        {
+                            "id": 427,
+                            "key": "",
+                            "value": ""
+                        }
+                    ],
+                    "cats": [],
+                    "mainAddress": {
+                        "id": 1913,
+                        "lat": null,
+                        "lng": null,
+                        "address": "u0645u0639u0627u062fu064a",
+                        "note": null,
+                        "city": {
+                            "id": 38,
+                            "name_ar": "u0645u0631u0633u064a u0645u0637u0631u0648u062d",
+                            "name_en": "Marsa matrouh",
+                            "name": "u0645u0631u0633u064a u0645u0637u0631u0648u062d"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 73,
+                        "image": "https://masafaapp.com/api/images/Product/5013517961700655589.jpg"
+                    },
+                    {
+                        "id": 74,
+                        "image": "https://masafaapp.com/api/images/Product/5291676781700655589.jpg"
+                    },
+                    {
+                        "id": 75,
+                        "image": "https://masafaapp.com/api/images/Product/17912803411700655589.jpg"
+                    },
+                    {
+                        "id": 76,
+                        "image": "https://masafaapp.com/api/images/Product/250315771700655589.jpg"
+                    },
+                    {
+                        "id": 77,
+                        "image": "https://masafaapp.com/api/images/Product/9872581551700655589.jpg"
+                    }
+                ],
+                "adds": [],
+                "tags": []
+            },
+            {
+                "id": 363,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 2074628685,
+                    "remainingTime": "24 days, 0 hours, 17 minutes, 8 seconds"
+                },
+                "name": "u0643u0631u0641u0627u0646 u062du0645u0627u0645 3*3 u0645u0633u062au0639u0645u0644",
+                "logo": "https://masafaapp.com/api/images/Product/14653777811710321593.jpg",
+                "pdf": "https://masafaapp.com/api/images/Product/16370807601710321593.pdf",
+                "description": "u0643u0631u0641u0627u0646 u062du0645u0627u0645 3*3 u0645u0633u062au0639u0645u0644",
+                "masafa_price": "10.00",
+                "start_price": "22000.00",
+                "step_price": "100.00",
+                "quantity": "1.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 1,
+                "show_company": 0,
+                "auctions_count": 1,
+                "end_date": "2024-03-16 15:00:00",
+                "less_quantity": "1.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 15,
+                    "name_ar": "u0642u0637u0639u0629",
+                    "name_en": "Piece",
+                    "name": "u0642u0637u0639u0629"
+                },
+                "category": {
+                    "id": 12,
+                    "name_ar": "u062du062fu064au062f u0648u0635u0627u062c",
+                    "name_en": "Steel",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u062du062fu064au062f u0648u0635u0627u062c",
+                    "cats": [
+                        {
+                            "id": 53,
+                            "name_ar": "u062du062fu064au062f u062eu0644u064au0637",
+                            "name_en": "Mixture Steel",
+                            "type": 1,
+                            "level": 2,
+                            "name": "u062du062fu064au062f u062eu0644u064au0637",
+                            "cats": []
+                        },
+                        {
+                            "id": 54,
+                            "name_ar": "u062du062fu064au062f u0645u0645u064au0632",
+                            "name_en": "Special Steel",
+                            "type": 2,
+                            "level": 2,
+                            "name": "u062du062fu064au062f u0645u0645u064au0632",
+                            "cats": []
+                        },
+                        {
+                            "id": 57,
+                            "name_ar": "u062du062fu064au062f u0632u0647u0631",
+                            "name_en": "S",
+                            "type": 2,
+                            "level": 2,
+                            "name": "u062du062fu064au062f u0632u0647u0631",
+                            "cats": []
+                        }
+                    ]
+                },
+                "status": {
+                    "id": 18,
+                    "bid": 0,
+                    "show_name": 1,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 0,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 0,
+                    "class": "danger",
+                    "color": "#A00000",
+                    "name_ar": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name_en": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "button_ar": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button_en": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644"
+                },
+                "address": {
+                    "id": 752,
+                    "lat": null,
+                    "lng": null,
+                    "address": "u0645u062fu064au0646u0629 u0646u0635u0631",
+                    "note": null,
+                    "city": {
+                        "id": 27,
+                        "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                        "name_en": "Cairo",
+                        "name": "u0627u0644u0642u0627u0647u0631u0647"
+                    }
+                },
+                "user": {
+                    "id": 836,
+                    "name": "u0623u062du0645u062f",
+                    "image": "https://masafaapp.com/api/images/User/11004238381710323503.jpg",
+                    "company_logo": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "phone": "01033013700",
+                    "email": "elmnofy28@gmail.com",
+                    "company_name": null,
+                    "user_type": {
+                        "id": 9,
+                        "title_ar": "u0645u0642u0627u0648u0644u0627u062a",
+                        "title_en": "contractors",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 2,
+                        "show_price": 0,
+                        "user_count": 0,
+                        "parent_id": 1,
+                        "title": "u0645u0642u0627u0648u0644u0627u062a",
+                        "subTypes": []
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 0,
+                    "rate": 0,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2024-02-29T10:14:00.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [],
+                    "cats": [
+                        {
+                            "id": 12,
+                            "name_ar": "u062du062fu064au062f u0648u0635u0627u062c",
+                            "name_en": "Steel",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u062du062fu064au062f u0648u0635u0627u062c",
+                            "cats": [
+                                {
+                                    "id": 53,
+                                    "name_ar": "u062du062fu064au062f u062eu0644u064au0637",
+                                    "name_en": "Mixture Steel",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u062du062fu064au062f u062eu0644u064au0637",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 54,
+                                    "name_ar": "u062du062fu064au062f u0645u0645u064au0632",
+                                    "name_en": "Special Steel",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062du062fu064au062f u0645u0645u064au0632",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 57,
+                                    "name_ar": "u062du062fu064au062f u0632u0647u0631",
+                                    "name_en": "S",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062du062fu064au062f u0632u0647u0631",
+                                    "cats": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 77,
+                            "name_ar": "u0643u0647u0631u0628u0627u0621",
+                            "name_en": "Electrical",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0643u0647u0631u0628u0627u0621",
+                            "cats": []
+                        },
+                        {
+                            "id": 78,
+                            "name_ar": "u0633u0628u0627u0643u0647",
+                            "name_en": "Plumping",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0633u0628u0627u0643u0647",
+                            "cats": []
+                        }
+                    ],
+                    "mainAddress": null
+                },
+                "images": [
+                    {
+                        "id": 586,
+                        "image": "https://masafaapp.com/api/images/Product/18390785691710330714.jpeg"
+                    },
+                    {
+                        "id": 587,
+                        "image": "https://masafaapp.com/api/images/Product/1849749381710330714.jpeg"
+                    },
+                    {
+                        "id": 588,
+                        "image": "https://masafaapp.com/api/images/Product/7937123911710330714.jpeg"
+                    },
+                    {
+                        "id": 589,
+                        "image": "https://masafaapp.com/api/images/Product/80737911710330714.jpeg"
+                    },
+                    {
+                        "id": 590,
+                        "image": "https://masafaapp.com/api/images/Product/19366862561710330714.jpeg"
+                    },
+                    {
+                        "id": 591,
+                        "image": "https://masafaapp.com/api/images/Product/5521185681710330714.jpeg"
+                    }
+                ],
+                "adds": [],
+                "tags": []
+            },
+            {
+                "id": 360,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 2074628698,
+                    "remainingTime": "24 days, 0 hours, 17 minutes, 8 seconds"
+                },
+                "name": "u0627u062du0648u0627u0636 u0645u0639u0644u0642 u0648u0642u0648u0627u0639u062f u0645u0639u0644u0642u0647 u0645u0627u0631u0643u0647 u062fu064au0648u0631u0627u0641u064au062a",
+                "logo": "https://masafaapp.com/api/images/Product/16335004601710277218.jpg",
+                "pdf": null,
+                "description": "u0639u062fu062f u0662u0660 u062du0648u0636 u0645u0639u0644u0642 u062fu064au0648u0631u0627u0641u064au062arnu0639u062fu062f u0661u0665 u0642u0627u0639u062fu0647 u0645u0639u0644u0642u0647 u062fu064au0648u0631u0627u0641u064au062arnu0628u062fu0648u0646 u062eu0632u0627u0646 u062fu0641u0646 rnu0627u0644u0627u0644u0648u0627u0646 u0628u064au062c u0648u0633u0645u0627u0648u064a rnu062au0645 u0627u0644u062au0631u0643u064au0628( u0628u062fu0648u0646 u062au0634u063au064au0644)  u0644u0645u062fu0647 u0634u0647u0631u064au0646 u062bu0645 u062au0645 u0641u0643u0647u0645",
+                "masafa_price": "10.00",
+                "start_price": "22000.00",
+                "step_price": "0.00",
+                "quantity": "1.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 1,
+                "show_company": 1,
+                "auctions_count": 0,
+                "end_date": "2024-03-16 15:00:00",
+                "less_quantity": "1.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 16,
+                    "name_ar": "u0644u0648u0637",
+                    "name_en": "lot",
+                    "name": "u0644u0648u0637"
+                },
+                "category": {
+                    "id": 78,
+                    "name_ar": "u0633u0628u0627u0643u0647",
+                    "name_en": "Plumping",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u0633u0628u0627u0643u0647",
+                    "cats": []
+                },
+                "status": {
+                    "id": 18,
+                    "bid": 0,
+                    "show_name": 1,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 0,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 0,
+                    "class": "danger",
+                    "color": "#A00000",
+                    "name_ar": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name_en": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "button_ar": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button_en": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644"
+                },
+                "address": null,
+                "user": {
+                    "id": 2108,
+                    "name": "Caravan",
+                    "image": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "company_logo": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "phone": "01278878873",
+                    "email": "Caravan-co@hotmail.com",
+                    "company_name": "Caravan co",
+                    "user_type": {
+                        "id": 9,
+                        "title_ar": "u0645u0642u0627u0648u0644u0627u062a",
+                        "title_en": "contractors",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 2,
+                        "show_price": 0,
+                        "user_count": 0,
+                        "parent_id": 1,
+                        "title": "u0645u0642u0627u0648u0644u0627u062a",
+                        "subTypes": []
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 0,
+                    "rate": 0,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2024-03-10T00:26:59.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [],
+                    "cats": [
+                        {
+                            "id": 103,
+                            "name_ar": "u0643u0627u0628u0644u0627u062a",
+                            "name_en": "Cables",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0643u0627u0628u0644u0627u062a",
+                            "cats": []
+                        },
+                        {
+                            "id": 48,
+                            "name_ar": "u062du062fu064au062f",
+                            "name_en": "Iron",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u062du062fu064au062f",
+                            "cats": [
+                                {
+                                    "id": 49,
+                                    "name_ar": "u062au0633u0644u064au062d",
+                                    "name_en": "tasl",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u062au0633u0644u064au062d",
+                                    "cats": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "name_ar": "u062du062fu064au062f u0648u0635u0627u062c",
+                            "name_en": "Steel",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u062du062fu064au062f u0648u0635u0627u062c",
+                            "cats": [
+                                {
+                                    "id": 53,
+                                    "name_ar": "u062du062fu064au062f u062eu0644u064au0637",
+                                    "name_en": "Mixture Steel",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u062du062fu064au062f u062eu0644u064au0637",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 54,
+                                    "name_ar": "u062du062fu064au062f u0645u0645u064au0632",
+                                    "name_en": "Special Steel",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062du062fu064au062f u0645u0645u064au0632",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 57,
+                                    "name_ar": "u062du062fu064au062f u0632u0647u0631",
+                                    "name_en": "S",
+                                    "type": 2,
+                                    "level": 2,
+                                    "name": "u062du062fu064au062f u0632u0647u0631",
+                                    "cats": []
+                                }
+                            ]
+                        }
+                    ],
+                    "mainAddress": {
+                        "id": 1924,
+                        "lat": null,
+                        "lng": null,
+                        "address": "u0627u0644u0646u0632u0647u0629 u0627u0644u062cu062fu064au062fu0647",
+                        "note": null,
+                        "city": {
+                            "id": 27,
+                            "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                            "name_en": "Cairo",
+                            "name": "u0627u0644u0642u0627u0647u0631u0647"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 580,
+                        "image": "https://masafaapp.com/api/images/Product/11281908851710277218.jpg"
+                    }
+                ],
+                "adds": [],
+                "tags": []
+            },
+            {
+                "id": 355,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 2290628706,
+                    "remainingTime": "26 days, 12 hours, 17 minutes, 8 seconds"
+                },
+                "name": "u0635u0648u0641 u0635u062eu0631u0649 u0645u0627u0631u0643u0629 rockwoll u0627u0645u0631u064au0643u064a",
+                "logo": "https://masafaapp.com/api/images/Product/2909628791709829973.jpeg",
+                "pdf": null,
+                "description": "u0635u0648u0641 u0635u062eu0631u064a u0627u0645u0631u064au0643u064a u064au062au0643u0648u0646 u0645u0646 u0662u0666 u0639u0628u0648u0647 u0648u0643u0644 u0639u0628u0648u0647 u0628u0647u0627 u0661u0662 u0644u0648u062d",
+                "masafa_price": "10.00",
+                "start_price": "0.00",
+                "step_price": "0.00",
+                "quantity": "125.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 1,
+                "show_company": 0,
+                "auctions_count": 0,
+                "end_date": "2024-03-14 03:00:00",
+                "less_quantity": "125.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 13,
+                    "name_ar": "u0645u062au0631 u0645u0633u0637u062d",
+                    "name_en": "m2",
+                    "name": "u0645u062au0631 u0645u0633u0637u062d"
+                },
+                "category": {
+                    "id": 120,
+                    "name_ar": "u0645u0646u062au062cu0627u062a u0639u0632u0644",
+                    "name_en": "Insulation Products",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u0645u0646u062au062cu0627u062a u0639u0632u0644",
+                    "cats": []
+                },
+                "status": {
+                    "id": 18,
+                    "bid": 0,
+                    "show_name": 1,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 0,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 0,
+                    "class": "danger",
+                    "color": "#A00000",
+                    "name_ar": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name_en": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "button_ar": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button_en": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644"
+                },
+                "address": {
+                    "id": 986,
+                    "lat": null,
+                    "lng": null,
+                    "address": "23 u0645u062du0645u0648u062f u062du0627u0641u0638 u0645u064au062fu0627u0646 u0633u0641u064au0631 u0645u0635u0631 u0627u0644u062cu062fu064au062fu0629",
+                    "note": null,
+                    "city": {
+                        "id": 27,
+                        "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                        "name_en": "Cairo",
+                        "name": "u0627u0644u0642u0627u0647u0631u0647"
+                    }
+                },
+                "user": {
+                    "id": 1177,
+                    "name": "u0639u0644u064a u0645u0627u0647u0631  u0639u0644u064a",
+                    "image": "https://masafaapp.com/api/images/User/19671596371709253654.jpg",
+                    "company_logo": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "phone": "01005565274",
+                    "email": "alymaher30198@gmail.com",
+                    "company_name": null,
+                    "user_type": {
+                        "id": 9,
+                        "title_ar": "u0645u0642u0627u0648u0644u0627u062a",
+                        "title_en": "contractors",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 2,
+                        "show_price": 0,
+                        "user_count": 0,
+                        "parent_id": 1,
+                        "title": "u0645u0642u0627u0648u0644u0627u062a",
+                        "subTypes": []
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 0,
+                    "rate": 0,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2024-03-01T00:40:54.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [],
+                    "cats": [
+                        {
+                            "id": 77,
+                            "name_ar": "u0643u0647u0631u0628u0627u0621",
+                            "name_en": "Electrical",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0643u0647u0631u0628u0627u0621",
+                            "cats": []
+                        },
+                        {
+                            "id": 103,
+                            "name_ar": "u0643u0627u0628u0644u0627u062a",
+                            "name_en": "Cables",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0643u0627u0628u0644u0627u062a",
+                            "cats": []
+                        },
+                        {
+                            "id": 41,
+                            "name_ar": "u0627u062eu0634u0627u0628",
+                            "name_en": "wood",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0627u062eu0634u0627u0628",
+                            "cats": [
+                                {
+                                    "id": 43,
+                                    "name_ar": "u062eu0634u0628 u0632u0627u0646",
+                                    "name_en": "wood",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u062eu0634u0628 u0632u0627u0646",
+                                    "cats": []
+                                }
+                            ]
+                        }
+                    ],
+                    "mainAddress": {
+                        "id": 986,
+                        "lat": null,
+                        "lng": null,
+                        "address": "23 u0645u062du0645u0648u062f u062du0627u0641u0638 u0645u064au062fu0627u0646 u0633u0641u064au0631 u0645u0635u0631 u0627u0644u062cu062fu064au062fu0629",
+                        "note": null,
+                        "city": {
+                            "id": 27,
+                            "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                            "name_en": "Cairo",
+                            "name": "u0627u0644u0642u0627u0647u0631u0647"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 563,
+                        "image": "https://masafaapp.com/api/images/Product/2861229801709829973.jpeg"
+                    },
+                    {
+                        "id": 564,
+                        "image": "https://masafaapp.com/api/images/Product/8698500751709829973.jpeg"
+                    },
+                    {
+                        "id": 565,
+                        "image": "https://masafaapp.com/api/images/Product/487559541709829973.jpeg"
+                    },
+                    {
+                        "id": 566,
+                        "image": "https://masafaapp.com/api/images/Product/14751633421709829973.jpeg"
+                    },
+                    {
+                        "id": 567,
+                        "image": "https://masafaapp.com/api/images/Product/3018574681709829973.jpeg"
+                    },
+                    {
+                        "id": 568,
+                        "image": "https://masafaapp.com/api/images/Product/12499051851709829973.jpeg"
+                    },
+                    {
+                        "id": 569,
+                        "image": "https://masafaapp.com/api/images/Product/16942536601709829973.jpeg"
+                    },
+                    {
+                        "id": 570,
+                        "image": "https://masafaapp.com/api/images/Product/20936506561709829973.jpeg"
+                    }
+                ],
+                "adds": [
+                    {
+                        "id": 68,
+                        "key": "u0627u0628u0639u0627u062f u0627u0644u0644u0648u062d (u0633u0645)",
+                        "value": "100x40x7"
+                    },
+                    {
+                        "id": 69,
+                        "key": "u0627u0644u0627u0644u0648u0627u062d u0644u0643u0644 u0639u0628u0648u0647 ",
+                        "value": "12"
+                    },
+                    {
+                        "id": 70,
+                        "key": "u0639u062fu062f u0627u0644u0639u0628u0648u0627u062a ",
+                        "value": "26"
+                    },
+                    {
+                        "id": 71,
+                        "key": "u0627u062cu0645u0627u0644u064a u0627u0644u0645u062au0631 u0627u0644u0645u0633u0637u062d",
+                        "value": "125"
+                    }
+                ],
+                "tags": []
+            },
+            {
+                "id": 324,
+                "is_fav": false,
+                "timeRemaining": {
+                    "differenceInMilliseconds": 2333828716,
+                    "remainingTime": "27 days, 0 hours, 17 minutes, 8 seconds"
+                },
+                "name": "u0639u062fu062f 50 u0644u0641u0629 u0627u0633u0644u0627u0643 u0627u0644u0633u0648u064au062fu064a",
+                "logo": "https://masafaapp.com/api/images/Product/19587369491709208224.jpg",
+                "pdf": null,
+                "description": "-u0661.u0665 u0645u0644u0644u064a u0639u062fu062f u0661u0668 u0644u0641u0629rn-u0662 u0645u0644u0644u064a   u0639u062fu062f 11 u0644u0641u0629rn-u0663 u0645u0644u0644u064a u0639u062fu062f u0662 u0644u0641u0629rn-u0664 u0645u0644u0644u064a u0639u062fu062f u0661u0666 u0644u0641u0629rn-u0666 u0645u0644u0644u064a u0639u062fu062f u0662 u0644u0641u0629rn-u0661u0666 u0645u0644u064a u0639u062fu062f u0661 u0644u0641u0629",
+                "masafa_price": "5.00",
+                "start_price": "100000.00",
+                "step_price": "0.00",
+                "quantity": "1.00",
+                "type": 1,
+                "price_type": 2,
+                "price": "0.00",
+                "website_price": "0.00",
+                "real_price": "0.00",
+                "mazad_type": 1,
+                "show_company": 1,
+                "auctions_count": 4,
+                "end_date": "2024-03-13 15:00:00",
+                "less_quantity": "1.00",
+                "high_price": "0.00",
+                "unit": {
+                    "id": 16,
+                    "name_ar": "u0644u0648u0637",
+                    "name_en": "lot",
+                    "name": "u0644u0648u0637"
+                },
+                "category": {
+                    "id": 103,
+                    "name_ar": "u0643u0627u0628u0644u0627u062a",
+                    "name_en": "Cables",
+                    "type": 1,
+                    "level": 1,
+                    "name": "u0643u0627u0628u0644u0627u062a",
+                    "cats": []
+                },
+                "status": {
+                    "id": 18,
+                    "bid": 0,
+                    "show_name": 1,
+                    "show_price": 0,
+                    "show_status": 1,
+                    "show_countdown": 0,
+                    "show_price_list": 0,
+                    "show_price_for_seller": 1,
+                    "send_message": 0,
+                    "class": "danger",
+                    "color": "#A00000",
+                    "name_ar": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name_en": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "name": "u062au0645 u0627u0646u062au0647u0627u0621 u062au0627u0631u064au062e u0627u0644u0645u0632u0627u062f",
+                    "button_ar": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button_en": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644",
+                    "button": "u0631u0624u064au0629 u0627u0644u062au0641u0627u0635u064au0644"
+                },
+                "address": {
+                    "id": 313,
+                    "lat": null,
+                    "lng": null,
+                    "address": "u0627u0643u062au0648u0628u0631 - u0627u0644u062du064a u0627u0644u062bu0627u0644u062b",
+                    "note": null,
+                    "city": {
+                        "id": 27,
+                        "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                        "name_en": "Cairo",
+                        "name": "u0627u0644u0642u0627u0647u0631u0647"
+                    }
+                },
+                "user": {
+                    "id": 506,
+                    "name": "Mahmoud",
+                    "image": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "company_logo": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                    "phone": "01011282243",
+                    "email": "melrouby289@gamol.com",
+                    "company_name": "Esco",
+                    "user_type": {
+                        "id": 9,
+                        "title_ar": "u0645u0642u0627u0648u0644u0627u062a",
+                        "title_en": "contractors",
+                        "icon": "https://masafaapp.com/static/media/main-logo.e673df00c34fbc7502350d7a0b3a15ce.svg",
+                        "level": 2,
+                        "show_price": 0,
+                        "user_count": 0,
+                        "parent_id": 1,
+                        "title": "u0645u0642u0627u0648u0644u0627u062a",
+                        "subTypes": []
+                    },
+                    "status": 1,
+                    "active_status": 1,
+                    "active_code": 0,
+                    "password_code": 0,
+                    "individual_or_company": 0,
+                    "rate": 0,
+                    "fire_base_token": null,
+                    "commercial_register": null,
+                    "tax_card": null,
+                    "added_tax_number": null,
+                    "electronic_invoice": null,
+                    "created_at": "2024-02-28T21:59:34.000000Z",
+                    "admin_login_token": null,
+                    "token": null,
+                    "adds": [
+                        {
+                            "id": 402,
+                            "key": "",
+                            "value": ""
+                        }
+                    ],
+                    "cats": [
+                        {
+                            "id": 77,
+                            "name_ar": "u0643u0647u0631u0628u0627u0621",
+                            "name_en": "Electrical",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0643u0647u0631u0628u0627u0621",
+                            "cats": []
+                        },
+                        {
+                            "id": 103,
+                            "name_ar": "u0643u0627u0628u0644u0627u062a",
+                            "name_en": "Cables",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0643u0627u0628u0644u0627u062a",
+                            "cats": []
+                        },
+                        {
+                            "id": 1,
+                            "name_ar": "u0646u062du0627u0633",
+                            "name_en": "copper",
+                            "type": 1,
+                            "level": 1,
+                            "name": "u0646u062du0627u0633",
+                            "cats": [
+                                {
+                                    "id": 3,
+                                    "name_ar": "u0633u0628u064au0643u0647",
+                                    "name_en": "piece",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u0633u0628u064au0643u0647",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 4,
+                                    "name_ar": "u062eu0627u0645",
+                                    "name_en": "normal",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u062eu0627u0645",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 107,
+                                    "name_ar": "u0627u062du0645u0631",
+                                    "name_en": "red",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u0627u062du0645u0631",
+                                    "cats": []
+                                },
+                                {
+                                    "id": 108,
+                                    "name_ar": "u0627u0635u0641u0631",
+                                    "name_en": "yellow",
+                                    "type": 1,
+                                    "level": 2,
+                                    "name": "u0627u0635u0641u0631",
+                                    "cats": []
+                                }
+                            ]
+                        }
+                    ],
+                    "mainAddress": {
+                        "id": 313,
+                        "lat": null,
+                        "lng": null,
+                        "address": "u0627u0643u062au0648u0628u0631 - u0627u0644u062du064a u0627u0644u062bu0627u0644u062b",
+                        "note": null,
+                        "city": {
+                            "id": 27,
+                            "name_ar": "u0627u0644u0642u0627u0647u0631u0647",
+                            "name_en": "Cairo",
+                            "name": "u0627u0644u0642u0627u0647u0631u0647"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "id": 455,
+                        "image": "https://masafaapp.com/api/images/Product/1639412151709208224.jpg"
+                    },
+                    {
+                        "id": 456,
+                        "image": "https://masafaapp.com/api/images/Product/11492194701709208224.jpg"
+                    }
+                ],
+                "adds": [],
+                "tags": []
+            }
+        ],
+        "pagination": {
+            "total": 43,
+            "count": 10,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 5,
+            "is_pagination": true
+        }
+    }
+}
