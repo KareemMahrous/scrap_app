@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:scrap_app/core/constants/colors.dart';
 import 'package:scrap_app/presentation/widget/products/product_card.dart';
 
 class HomePage extends StatelessWidget {
@@ -17,7 +18,7 @@ class HomePage extends StatelessWidget {
                 description: 'description ydgasudhsl',
                 quantity: 'طن',
                 number: '1',
-                color: Colors.red);
+                color: red);
           }),
     );
   }

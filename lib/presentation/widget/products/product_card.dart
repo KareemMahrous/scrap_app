@@ -102,7 +102,7 @@ class ProductCard extends StatelessWidget {
             height: 10,
           ),
           const Divider(
-            color: Colors.grey,
+            color:grey,
             height: 1,
           ),
           const SizedBox(
@@ -113,8 +113,8 @@ class ProductCard extends StatelessWidget {
               width: MediaQuery.sizeOf(context).width * 0.35,
               height: MediaQuery.sizeOf(context).height * 0.06,
               onPressed: () {},
-              text: 'see details',
-              buttonColor: Colors.green[200])
+              text: 'see details',textColor: white,
+              buttonColor: green)
         ],
       ),
     );
