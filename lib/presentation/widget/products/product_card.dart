@@ -11,29 +11,28 @@ class ProductCard extends StatelessWidget {
       required this.description,
       required this.quantity,
       required this.number,
-      required this.color});
+      required this.color,
+      required this.image});
   final String label;
   final String itemName;
   final String description;
   final String quantity;
   final String number;
+  final String image;
   final Color color;
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: MediaQuery.of(context).size.height * 0.70,
-      width: MediaQuery.of(context).size.width * 0.50,
       margin: const EdgeInsets.all(8),
-      decoration: BoxDecoration(borderRadius: BorderRadius.circular(10)),
+      decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(20), color: Colors.black12),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         //  mainAxisAlignment: MainAxisAlignment.start,
         children: [
           Stack(children: [
             Image.network(
-                height: MediaQuery.sizeOf(context).height * 0.35,
-                // width: MediaQuery.sizeOf(context).width * 0.35,
-                "https://masafaapp.com/api/images/Product/17055201911711977278.jpeg"),
+                height: MediaQuery.sizeOf(context).height * 0.35, image),
             Container(
               alignment: Alignment.topCenter,
               width: MediaQuery.sizeOf(context).width * 0.40,
@@ -67,6 +66,7 @@ class ProductCard extends StatelessWidget {
           ),
           Text(
             description,
+            overflow: TextOverflow.ellipsis,
             style: context.bodyLarge.copyWith(color: black),
           ),
           const SizedBox(
@@ -102,7 +102,7 @@ class ProductCard extends StatelessWidget {
             height: 10,
           ),
           const Divider(
-            color:grey,
+            color: grey,
             height: 1,
           ),
           const SizedBox(
@@ -113,7 +113,8 @@ class ProductCard extends StatelessWidget {
               width: MediaQuery.sizeOf(context).width * 0.35,
               height: MediaQuery.sizeOf(context).height * 0.06,
               onPressed: () {},
-              text: 'see details',textColor: white,
+              text: 'see details',
+              textColor: white,
               buttonColor: green)
         ],
       ),
