@@ -1,7 +1,6 @@
-
 import 'package:equatable/equatable.dart';
 
-class Product with EquatableMixin {
+class ProductModel with EquatableMixin {
   int? id;
   bool? isFav;
   TimeRemaining? timeRemaining;
@@ -29,7 +28,7 @@ class Product with EquatableMixin {
   User? user;
   List<Images>? images;
 
-  Product({
+  ProductModel({
     this.id,
     this.isFav,
     this.timeRemaining,
@@ -88,7 +87,7 @@ class Product with EquatableMixin {
         images
       ];
 
-  Product copyWith({
+  ProductModel copyWith({
     int? id,
     bool? isFav,
     TimeRemaining? timeRemaining,
@@ -116,7 +115,7 @@ class Product with EquatableMixin {
     User? user,
     List<Images>? images,
   }) {
-    return Product(
+    return ProductModel(
       id: id ?? this.id,
       isFav: isFav ?? this.isFav,
       timeRemaining: timeRemaining ?? this.timeRemaining,
@@ -177,8 +176,8 @@ class Product with EquatableMixin {
     };
   }
 
-  factory Product.fromJson(Map<String, dynamic> json) {
-    return Product(
+  factory ProductModel.fromJson(Map<String, dynamic> json) {
+    return ProductModel(
       id: json['id'] as int?,
       isFav: json['is_fav'] as bool?,
       timeRemaining: json['timeRemaining'] == null

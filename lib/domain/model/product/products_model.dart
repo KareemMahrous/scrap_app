@@ -3,7 +3,7 @@ import 'package:equatable/equatable.dart';
 import 'product_model.dart';
 
 class ProductsModel with EquatableMixin {
-  List<Product>? data;
+  List<ProductModel>? data;
   Pagination? pagination;
 
   ProductsModel({
@@ -15,7 +15,7 @@ class ProductsModel with EquatableMixin {
   List<Object?> get props => [data, pagination];
 
   ProductsModel copyWith({
-    List<Product>? data,
+    List<ProductModel>? data,
     Pagination? pagination,
   }) {
     return ProductsModel(
@@ -34,7 +34,7 @@ class ProductsModel with EquatableMixin {
   factory ProductsModel.fromJson(Map<String, dynamic> json) {
     return ProductsModel(
       data: (json['data'] as List<dynamic>?)
-          ?.map((e) => Product.fromJson(e as Map<String, dynamic>))
+          ?.map((e) => ProductModel.fromJson(e as Map<String, dynamic>))
           .toList(),
       pagination: json['pagination'] == null
           ? null

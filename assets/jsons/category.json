@@ -41,8 +41,7 @@
                     "name_en": "Tools",
                     "type": 1,
                     "level": 1,
-                    "name": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
-                    "cats": []
+                    "name": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629"
                 },
                 "status": {
                     "id": 2,
@@ -92,9 +91,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
-                                "subTypes": []
-                            },
+                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627"                            },
                             {
                                 "id": 7,
                                 "title_ar": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
@@ -104,8 +101,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a"
                             },
                             {
                                 "id": 8,
@@ -116,8 +112,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
-                                "subTypes": []
+                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647"
                             },
                             {
                                 "id": 11,
@@ -128,8 +123,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a"
                             },
                             {
                                 "id": 12,
@@ -140,8 +134,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645"
                             },
                             {
                                 "id": 13,
@@ -152,8 +145,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643"
                             },
                             {
                                 "id": 14,
@@ -164,8 +156,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645"
                             },
                             {
                                 "id": 15,
@@ -176,8 +167,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0635u0647u0631",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0635u0647u0631"
                             },
                             {
                                 "id": 17,
@@ -188,8 +178,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a"
                             },
                             {
                                 "id": 18,
@@ -200,8 +189,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 19,
@@ -212,8 +200,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 20,
@@ -224,8 +211,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 21,
@@ -236,8 +222,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
-                                "subTypes": []
+                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634"
                             },
                             {
                                 "id": 22,
@@ -248,8 +233,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645",
-                                "subTypes": []
+                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645"
                             },
                             {
                                 "id": 23,
@@ -260,8 +244,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0643u0631u0641u0627u0646u0627u062a",
-                                "subTypes": []
+                                "title": "u0643u0631u0641u0627u0646u0627u062a"
                             },
                             {
                                 "id": 25,
@@ -272,8 +255,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
-                                "subTypes": []
+                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639"
                             },
                             {
                                 "id": 27,
@@ -284,8 +266,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
-                                "subTypes": []
+                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629"
                             },
                             {
                                 "id": 28,
@@ -296,8 +277,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a"
                             }
                         ]
                     },
@@ -342,9 +322,8 @@
                         "id": 687,
                         "image": "https://masafaapp.com/api/images/Product/15690755301710836107.jpeg"
                     }
-                ],
-                "adds": [],
-                "tags": []
+                ]
+    
             },
             {
                 "id": 424,
@@ -384,8 +363,7 @@
                     "name_en": "Electrical",
                     "type": 1,
                     "level": 1,
-                    "name": "u0643u0647u0631u0628u0627u0621",
-                    "cats": []
+                    "name": "u0643u0647u0631u0628u0627u0621"
                 },
                 "status": {
                     "id": 22,
@@ -435,8 +413,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627"
                             },
                             {
                                 "id": 7,
@@ -447,8 +424,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a"
                             },
                             {
                                 "id": 8,
@@ -459,8 +435,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
-                                "subTypes": []
+                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647"
                             },
                             {
                                 "id": 11,
@@ -471,8 +446,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a"
                             },
                             {
                                 "id": 12,
@@ -483,8 +457,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645"
                             },
                             {
                                 "id": 13,
@@ -495,8 +468,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643"
                             },
                             {
                                 "id": 14,
@@ -507,9 +479,8 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
-                                "subTypes": []
-                            },
+                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645"
+                                                            },
                             {
                                 "id": 15,
                                 "title_ar": "u0645u0635u0646u0639 u0635u0647u0631",
@@ -519,8 +490,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0635u0647u0631",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0635u0647u0631"
                             },
                             {
                                 "id": 17,
@@ -531,8 +501,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a"
                             },
                             {
                                 "id": 18,
@@ -543,8 +512,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 19,
@@ -555,8 +523,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 20,
@@ -567,8 +534,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 21,
@@ -579,8 +545,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
-                                "subTypes": []
+                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634"
                             },
                             {
                                 "id": 22,
@@ -591,8 +556,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645",
-                                "subTypes": []
+                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645"
                             },
                             {
                                 "id": 23,
@@ -603,8 +567,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0643u0631u0641u0627u0646u0627u062a",
-                                "subTypes": []
+                                "title": "u0643u0631u0641u0627u0646u0627u062a"
                             },
                             {
                                 "id": 25,
@@ -615,8 +578,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
-                                "subTypes": []
+                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639"
                             },
                             {
                                 "id": 27,
@@ -627,8 +589,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
-                                "subTypes": []
+                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629"
                             },
                             {
                                 "id": 28,
@@ -639,8 +600,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a"
                             }
                         ]
                     },
@@ -708,8 +668,7 @@
                         "key": "u0627u0644u0645u0648u0642u0639 ",
                         "value": "u0627u0644u0627u0633u0643u0646u062fu0631u064au0647"
                     }
-                ],
-                "tags": []
+                ]
             },
             {
                 "id": 354,
@@ -749,8 +708,7 @@
                     "name_en": "Cables",
                     "type": 1,
                     "level": 1,
-                    "name": "u0643u0627u0628u0644u0627u062a",
-                    "cats": []
+                    "name": "u0643u0627u0628u0644u0627u062a"
                 },
                 "status": {
                     "id": 2,
@@ -801,8 +759,7 @@
                         "show_price": 0,
                         "user_count": 0,
                         "parent_id": 1,
-                        "title": "u0645u0642u0627u0648u0644u0627u062a",
-                        "subTypes": []
+                        "title": "u0645u0642u0627u0648u0644u0627u062a"
                     },
                     "status": 1,
                     "active_status": 1,
@@ -818,7 +775,6 @@
                     "created_at": "2024-03-05T17:07:11.000000Z",
                     "admin_login_token": null,
                     "token": null,
-                    "adds": [],
                     "cats": [
                         {
                             "id": 103,
@@ -826,9 +782,8 @@
                             "name_en": "Cables",
                             "type": 1,
                             "level": 1,
-                            "name": "u0643u0627u0628u0644u0627u062a",
-                            "cats": []
-                        },
+                            "name": "u0643u0627u0628u0644u0627u062a"
+                                },
                         {
                             "id": 48,
                             "name_ar": "u062du062fu064au062f",
@@ -843,9 +798,8 @@
                                     "name_en": "tasl",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u062au0633u0644u064au062d",
-                                    "cats": []
-                                }
+                                    "name": "u062au0633u0644u064au062d"
+                                                }
                             ]
                         },
                         {
@@ -862,18 +816,16 @@
                                     "name_en": "Copper cables",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u0643u0627u0628u0644u0627u062a u0646u062du0627u0633",
-                                    "cats": []
-                                },
+                                    "name": "u0643u0627u0628u0644u0627u062a u0646u062du0627u0633"
+                                                },
                                 {
                                     "id": 111,
                                     "name_ar": "u0643u0627u0628u0644u0627u062a u0627u0644u0648u0645u0646u064au0648u0645",
                                     "name_en": "Aluminum cables",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u0643u0627u0628u0644u0627u062a u0627u0644u0648u0645u0646u064au0648u0645",
-                                    "cats": []
-                                }
+                                    "name": "u0643u0627u0628u0644u0627u062a u0627u0644u0648u0645u0646u064au0648u0645"
+                                                }
                             ]
                         }
                     ],
@@ -908,9 +860,8 @@
                         "id": 562,
                         "image": "https://masafaapp.com/api/images/Product/9746075601709828248.jpeg"
                     }
-                ],
-                "adds": [],
-                "tags": []
+                ]
+             
             },
             {
                 "id": 403,
@@ -958,18 +909,16 @@
                             "name_en": "a",
                             "type": 1,
                             "level": 2,
-                            "name": "u0627u0633u0644u0627u0643 u0644u062du0627u0645",
-                            "cats": []
-                        },
+                            "name": "u0627u0633u0644u0627u0643 u0644u062du0627u0645"
+                                },
                         {
                             "id": 123,
                             "name_ar": "u0627u062du062cu0627u0631 u0642u0637u0639 u0648u062cu0644u062e",
                             "name_en": "a",
                             "type": 1,
                             "level": 2,
-                            "name": "u0627u062du062cu0627u0631 u0642u0637u0639 u0648u062cu0644u062e",
-                            "cats": []
-                        }
+                            "name": "u0627u062du062cu0627u0631 u0642u0637u0639 u0648u062cu0644u062e"
+                                }
                     ]
                 },
                 "status": {
@@ -1020,8 +969,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627"
                             },
                             {
                                 "id": 7,
@@ -1032,8 +980,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a"
                             },
                             {
                                 "id": 8,
@@ -1044,8 +991,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
-                                "subTypes": []
+                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647"
                             },
                             {
                                 "id": 11,
@@ -1056,8 +1002,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a"
                             },
                             {
                                 "id": 12,
@@ -1068,8 +1013,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645"
                             },
                             {
                                 "id": 13,
@@ -1080,8 +1024,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643"
                             },
                             {
                                 "id": 14,
@@ -1092,8 +1035,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645"
                             },
                             {
                                 "id": 15,
@@ -1104,8 +1046,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0635u0647u0631",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0635u0647u0631"
                             },
                             {
                                 "id": 17,
@@ -1116,8 +1057,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a"
                             },
                             {
                                 "id": 18,
@@ -1128,8 +1068,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 19,
@@ -1140,8 +1079,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 20,
@@ -1152,8 +1090,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 21,
@@ -1164,8 +1101,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
-                                "subTypes": []
+                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634"
                             },
                             {
                                 "id": 22,
@@ -1176,8 +1112,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645",
-                                "subTypes": []
+                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645"
                             },
                             {
                                 "id": 23,
@@ -1188,8 +1123,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0643u0631u0641u0627u0646u0627u062a",
-                                "subTypes": []
+                                "title": "u0643u0631u0641u0627u0646u0627u062a"
                             },
                             {
                                 "id": 25,
@@ -1200,8 +1134,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
-                                "subTypes": []
+                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639"
                             },
                             {
                                 "id": 27,
@@ -1212,8 +1145,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
-                                "subTypes": []
+                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629"
                             },
                             {
                                 "id": 28,
@@ -1224,8 +1156,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a"
                             }
                         ]
                     },
@@ -1286,9 +1217,8 @@
                         "id": 684,
                         "image": "https://masafaapp.com/api/images/Product/3530668281710814958.jpeg"
                     }
-                ],
-                "adds": [],
-                "tags": []
+                ]
+            
             },
             {
                 "id": 377,
@@ -1328,8 +1258,7 @@
                     "name_en": "Mixture Steel",
                     "type": 1,
                     "level": 2,
-                    "name": "u062du062fu064au062f u062eu0644u064au0637",
-                    "cats": []
+                    "name": "u062du062fu064au062f u062eu0644u064au0637"
                 },
                 "status": {
                     "id": 18,
@@ -1380,8 +1309,7 @@
                         "show_price": 0,
                         "user_count": 0,
                         "parent_id": 1,
-                        "title": "u0645u062eu0632u0646 u0641u0635u0644",
-                        "subTypes": []
+                        "title": "u0645u062eu0632u0646 u0641u0635u0644"
                     },
                     "status": 1,
                     "active_status": 1,
@@ -1397,7 +1325,6 @@
                     "created_at": "2024-03-05T18:18:57.000000Z",
                     "admin_login_token": null,
                     "token": null,
-                    "adds": [],
                     "cats": [
                         {
                             "id": 90,
@@ -1413,36 +1340,32 @@
                                     "name_en": "cast iron",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062du062fu064au062f u0632u0647u0631",
-                                    "cats": []
-                                },
+                                    "name": "u062du062fu064au062f u0632u0647u0631"
+                                                },
                                 {
                                     "id": 92,
                                     "name_ar": "u0635u0627u062c",
                                     "name_en": "steel coils",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u0635u0627u062c",
-                                    "cats": []
-                                },
+                                    "name": "u0635u0627u062c"
+                                                },
                                 {
                                     "id": 93,
                                     "name_ar": "u062du062fu064au062f u062eu0644u064au0637",
                                     "name_en": "mix iron",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062du062fu064au062f u062eu0644u064au0637",
-                                    "cats": []
-                                },
+                                    "name": "u062du062fu064au062f u062eu0644u064au0637"
+                                                },
                                 {
                                     "id": 106,
                                     "name_ar": "u0646u062du0627u0633",
                                     "name_en": "Bruss",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u0646u062du0627u0633",
-                                    "cats": []
-                                }
+                                    "name": "u0646u062du0627u0633"
+                                                }
                             ]
                         },
                         {
@@ -1451,9 +1374,8 @@
                             "name_en": "Electrical devices",
                             "type": 2,
                             "level": 1,
-                            "name": "u0627u062cu0647u0632u0629 u0627u0644u0643u062au0631u0648u0646u064au0629",
-                            "cats": []
-                        },
+                            "name": "u0627u062cu0647u0632u0629 u0627u0644u0643u062au0631u0648u0646u064au0629"
+                                },
                         {
                             "id": 38,
                             "name_ar": "u062eu0634u0628",
@@ -1468,81 +1390,72 @@
                                     "name_en": "T",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062eu0634u0628 u0628u0643u0631 u0643u0627u0628u0644u0627u062a",
-                                    "cats": []
-                                },
+                                    "name": "u062eu0634u0628 u0628u0643u0631 u0643u0627u0628u0644u0627u062a"
+                                                },
                                 {
                                     "id": 75,
                                     "name_ar": "u062eu0634u0628 u0645u0648u0633u0643u064a",
                                     "name_en": "T",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062eu0634u0628 u0645u0648u0633u0643u064a",
-                                    "cats": []
-                                },
+                                    "name": "u062eu0634u0628 u0645u0648u0633u0643u064a"
+                                                },
                                 {
                                     "id": 76,
                                     "name_ar": "u0646u0634u0627u0631u0629 u062eu0634u0628",
                                     "name_en": "T",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u0646u0634u0627u0631u0629 u062eu0634u0628",
-                                    "cats": []
-                                },
+                                    "name": "u0646u0634u0627u0631u0629 u062eu0634u0628"
+                                                },
                                 {
                                     "id": 113,
                                     "name_ar": "u062eu0634u0628 u0627u0628u064au0636",
                                     "name_en": "W",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062eu0634u0628 u0627u0628u064au0636",
-                                    "cats": []
-                                },
+                                    "name": "u062eu0634u0628 u0627u0628u064au0636"
+                                                },
                                 {
                                     "id": 114,
                                     "name_ar": "u062eu0634u0628 u0627u062du0645u0631",
                                     "name_en": "W",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062eu0634u0628 u0627u062du0645u0631",
-                                    "cats": []
-                                },
+                                    "name": "u062eu0634u0628 u0627u062du0645u0631"
+                                                },
                                 {
                                     "id": 115,
                                     "name_ar": "u062eu0634u0628 u0623u0631u0648",
                                     "name_en": "W",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062eu0634u0628 u0623u0631u0648",
-                                    "cats": []
-                                },
+                                    "name": "u062eu0634u0628 u0623u0631u0648"
+                                                },
                                 {
                                     "id": 116,
                                     "name_ar": "u0628u0627u0644u062au0627u062a u0633u0639u0648u062fu064a",
                                     "name_en": "w",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u0628u0627u0644u062au0627u062a u0633u0639u0648u062fu064a",
-                                    "cats": []
-                                },
+                                    "name": "u0628u0627u0644u062au0627u062a u0633u0639u0648u062fu064a"
+                                                },
                                 {
                                     "id": 117,
                                     "name_ar": "u0628u0627u0644u062au0627u062a u0645u0635u0631u064a",
                                     "name_en": "w",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u0628u0627u0644u062au0627u062a u0645u0635u0631u064a",
-                                    "cats": []
-                                },
+                                    "name": "u0628u0627u0644u062au0627u062a u0645u0635u0631u064a"
+                                                },
                                 {
                                     "id": 118,
                                     "name_ar": "u0628u0627u0644u062au0627u062a u0627u0633u0631u0627u0626u064au0644u064a",
                                     "name_en": "w",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u0628u0627u0644u062au0627u062a u0627u0633u0631u0627u0626u064au0644u064a",
-                                    "cats": []
-                                }
+                                    "name": "u0628u0627u0644u062au0627u062a u0627u0633u0631u0627u0626u064au0644u064a"
+                                                }
                             ]
                         }
                     ],
@@ -1585,9 +1498,8 @@
                         "id": 613,
                         "image": "https://masafaapp.com/api/images/Product/12461369161710533035.jpg"
                     }
-                ],
-                "adds": [],
-                "tags": []
+                ]
+            
             },
             {
                 "id": 199,
@@ -1627,8 +1539,7 @@
                     "name_en": "Electrical",
                     "type": 1,
                     "level": 1,
-                    "name": "u0643u0647u0631u0628u0627u0621",
-                    "cats": []
+                    "name": "u0643u0647u0631u0628u0627u0621"
                 },
                 "status": {
                     "id": 18,
@@ -1690,8 +1601,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u0643u0647u0631u0628u0627"
                             },
                             {
                                 "id": 7,
@@ -1702,8 +1612,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u0633u0628u0627u0643u0647 u0648u0635u062du064a"
                             },
                             {
                                 "id": 8,
@@ -1714,8 +1623,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647",
-                                "subTypes": []
+                                "title": "u062au0648u0631u064au062fu0627u062a u0639u0627u0645u0647"
                             },
                             {
                                 "id": 11,
@@ -1726,8 +1634,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062eu0634u0628 u0628u0627u0644u062au0627u062a"
                             },
                             {
                                 "id": 12,
@@ -1738,8 +1645,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u062eu0631u062fu0647 u0639u0627u0645"
                             },
                             {
                                 "id": 13,
@@ -1750,8 +1656,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0645u0634u0627u0628u0643"
                             },
                             {
                                 "id": 14,
@@ -1762,8 +1667,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062eu0631u0627u0637u064au0645"
                             },
                             {
                                 "id": 15,
@@ -1774,8 +1678,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0635u0647u0631",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0635u0647u0631"
                             },
                             {
                                 "id": 17,
@@ -1786,8 +1689,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0643u0628u0633 u0628u0627u0644u062au0627u062a"
                             },
                             {
                                 "id": 18,
@@ -1798,8 +1700,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0643u0633u0631 u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 19,
@@ -1810,8 +1711,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u062au062eu0631u064au0632 u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 20,
@@ -1822,8 +1722,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643",
-                                "subTypes": []
+                                "title": "u0645u0635u0646u0639 u0645u062eu0644u0641u0627u062a u0643u0631u062au0648u0646 u0648u0628u0644u0627u0633u062au064au0643"
                             },
                             {
                                 "id": 21,
@@ -1834,8 +1733,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634",
-                                "subTypes": []
+                                "title": "u0648u0631u0634u0647 u0643u0627u0648u062au0634"
                             },
                             {
                                 "id": 22,
@@ -1846,8 +1744,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645",
-                                "subTypes": []
+                                "title": "u0645u0642u0627u0648u0644 u0647u062fu0645"
                             },
                             {
                                 "id": 23,
@@ -1858,8 +1755,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0643u0631u0641u0627u0646u0627u062a",
-                                "subTypes": []
+                                "title": "u0643u0631u0641u0627u0646u0627u062a"
                             },
                             {
                                 "id": 25,
@@ -1870,8 +1766,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639",
-                                "subTypes": []
+                                "title": "u0645u0633u062au0644u0632u0645u0627u062a u0648u0631u0634 u0648u0645u0635u0627u0646u0639"
                             },
                             {
                                 "id": 27,
@@ -1882,8 +1777,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629",
-                                "subTypes": []
+                                "title": "u0639u062fu062f u0648u0627u062fu0648u0627u062a u064au062fu0648u064au0629"
                             },
                             {
                                 "id": 28,
@@ -1894,8 +1788,7 @@
                                 "show_price": 0,
                                 "user_count": 0,
                                 "parent_id": 2,
-                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a",
-                                "subTypes": []
+                                "title": "u062au0627u062cu0631 u062au0643u064au064au0641u0627u062a"
                             }
                         ]
                     },
@@ -1956,9 +1849,8 @@
                         "id": 77,
                         "image": "https://masafaapp.com/api/images/Product/9872581551700655589.jpg"
                     }
-                ],
-                "adds": [],
-                "tags": []
+                ]
+            
             },
             {
                 "id": 363,
@@ -2006,27 +1898,24 @@
                             "name_en": "Mixture Steel",
                             "type": 1,
                             "level": 2,
-                            "name": "u062du062fu064au062f u062eu0644u064au0637",
-                            "cats": []
-                        },
+                            "name": "u062du062fu064au062f u062eu0644u064au0637"
+                                },
                         {
                             "id": 54,
                             "name_ar": "u062du062fu064au062f u0645u0645u064au0632",
                             "name_en": "Special Steel",
                             "type": 2,
                             "level": 2,
-                            "name": "u062du062fu064au062f u0645u0645u064au0632",
-                            "cats": []
-                        },
+                            "name": "u062du062fu064au062f u0645u0645u064au0632"
+                                },
                         {
                             "id": 57,
                             "name_ar": "u062du062fu064au062f u0632u0647u0631",
                             "name_en": "S",
                             "type": 2,
                             "level": 2,
-                            "name": "u062du062fu064au062f u0632u0647u0631",
-                            "cats": []
-                        }
+                            "name": "u062du062fu064au062f u0632u0647u0631"
+                                }
                     ]
                 },
                 "status": {
@@ -2078,8 +1967,7 @@
                         "show_price": 0,
                         "user_count": 0,
                         "parent_id": 1,
-                        "title": "u0645u0642u0627u0648u0644u0627u062a",
-                        "subTypes": []
+                        "title": "u0645u0642u0627u0648u0644u0627u062a"
                     },
                     "status": 1,
                     "active_status": 1,
@@ -2095,7 +1983,6 @@
                     "created_at": "2024-02-29T10:14:00.000000Z",
                     "admin_login_token": null,
                     "token": null,
-                    "adds": [],
                     "cats": [
                         {
                             "id": 12,
@@ -2111,27 +1998,24 @@
                                     "name_en": "Mixture Steel",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u062du062fu064au062f u062eu0644u064au0637",
-                                    "cats": []
-                                },
+                                    "name": "u062du062fu064au062f u062eu0644u064au0637"
+                                                },
                                 {
                                     "id": 54,
                                     "name_ar": "u062du062fu064au062f u0645u0645u064au0632",
                                     "name_en": "Special Steel",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062du062fu064au062f u0645u0645u064au0632",
-                                    "cats": []
-                                },
+                                    "name": "u062du062fu064au062f u0645u0645u064au0632"
+                                                },
                                 {
                                     "id": 57,
                                     "name_ar": "u062du062fu064au062f u0632u0647u0631",
                                     "name_en": "S",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062du062fu064au062f u0632u0647u0631",
-                                    "cats": []
-                                }
+                                    "name": "u062du062fu064au062f u0632u0647u0631"
+                                                }
                             ]
                         },
                         {
@@ -2140,18 +2024,16 @@
                             "name_en": "Electrical",
                             "type": 1,
                             "level": 1,
-                            "name": "u0643u0647u0631u0628u0627u0621",
-                            "cats": []
-                        },
+                            "name": "u0643u0647u0631u0628u0627u0621"
+                                },
                         {
                             "id": 78,
                             "name_ar": "u0633u0628u0627u0643u0647",
                             "name_en": "Plumping",
                             "type": 1,
                             "level": 1,
-                            "name": "u0633u0628u0627u0643u0647",
-                            "cats": []
-                        }
+                            "name": "u0633u0628u0627u0643u0647"
+                                }
                     ],
                     "mainAddress": null
                 },
@@ -2180,9 +2062,8 @@
                         "id": 591,
                         "image": "https://masafaapp.com/api/images/Product/5521185681710330714.jpeg"
                     }
-                ],
-                "adds": [],
-                "tags": []
+                ]
+               
             },
             {
                 "id": 360,
@@ -2222,8 +2103,7 @@
                     "name_en": "Plumping",
                     "type": 1,
                     "level": 1,
-                    "name": "u0633u0628u0627u0643u0647",
-                    "cats": []
+                    "name": "u0633u0628u0627u0643u0647"
                 },
                 "status": {
                     "id": 18,
@@ -2262,8 +2142,7 @@
                         "show_price": 0,
                         "user_count": 0,
                         "parent_id": 1,
-                        "title": "u0645u0642u0627u0648u0644u0627u062a",
-                        "subTypes": []
+                        "title": "u0645u0642u0627u0648u0644u0627u062a"
                     },
                     "status": 1,
                     "active_status": 1,
@@ -2279,7 +2158,6 @@
                     "created_at": "2024-03-10T00:26:59.000000Z",
                     "admin_login_token": null,
                     "token": null,
-                    "adds": [],
                     "cats": [
                         {
                             "id": 103,
@@ -2287,9 +2165,8 @@
                             "name_en": "Cables",
                             "type": 1,
                             "level": 1,
-                            "name": "u0643u0627u0628u0644u0627u062a",
-                            "cats": []
-                        },
+                            "name": "u0643u0627u0628u0644u0627u062a"
+                                },
                         {
                             "id": 48,
                             "name_ar": "u062du062fu064au062f",
@@ -2304,9 +2181,8 @@
                                     "name_en": "tasl",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u062au0633u0644u064au062d",
-                                    "cats": []
-                                }
+                                    "name": "u062au0633u0644u064au062d"
+                                                }
                             ]
                         },
                         {
@@ -2323,27 +2199,24 @@
                                     "name_en": "Mixture Steel",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u062du062fu064au062f u062eu0644u064au0637",
-                                    "cats": []
-                                },
+                                    "name": "u062du062fu064au062f u062eu0644u064au0637"
+                                                },
                                 {
                                     "id": 54,
                                     "name_ar": "u062du062fu064au062f u0645u0645u064au0632",
                                     "name_en": "Special Steel",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062du062fu064au062f u0645u0645u064au0632",
-                                    "cats": []
-                                },
+                                    "name": "u062du062fu064au062f u0645u0645u064au0632"
+                                                },
                                 {
                                     "id": 57,
                                     "name_ar": "u062du062fu064au062f u0632u0647u0631",
                                     "name_en": "S",
                                     "type": 2,
                                     "level": 2,
-                                    "name": "u062du062fu064au062f u0632u0647u0631",
-                                    "cats": []
-                                }
+                                    "name": "u062du062fu064au062f u0632u0647u0631"
+                                                }
                             ]
                         }
                     ],
@@ -2366,9 +2239,8 @@
                         "id": 580,
                         "image": "https://masafaapp.com/api/images/Product/11281908851710277218.jpg"
                     }
-                ],
-                "adds": [],
-                "tags": []
+                ]
+                
             },
             {
                 "id": 355,
@@ -2408,8 +2280,7 @@
                     "name_en": "Insulation Products",
                     "type": 1,
                     "level": 1,
-                    "name": "u0645u0646u062au062cu0627u062a u0639u0632u0644",
-                    "cats": []
+                    "name": "u0645u0646u062au062cu0627u062a u0639u0632u0644"
                 },
                 "status": {
                     "id": 18,
@@ -2460,8 +2331,7 @@
                         "show_price": 0,
                         "user_count": 0,
                         "parent_id": 1,
-                        "title": "u0645u0642u0627u0648u0644u0627u062a",
-                        "subTypes": []
+                        "title": "u0645u0642u0627u0648u0644u0627u062a"
                     },
                     "status": 1,
                     "active_status": 1,
@@ -2477,7 +2347,6 @@
                     "created_at": "2024-03-01T00:40:54.000000Z",
                     "admin_login_token": null,
                     "token": null,
-                    "adds": [],
                     "cats": [
                         {
                             "id": 77,
@@ -2485,18 +2354,16 @@
                             "name_en": "Electrical",
                             "type": 1,
                             "level": 1,
-                            "name": "u0643u0647u0631u0628u0627u0621",
-                            "cats": []
-                        },
+                            "name": "u0643u0647u0631u0628u0627u0621"
+                                },
                         {
                             "id": 103,
                             "name_ar": "u0643u0627u0628u0644u0627u062a",
                             "name_en": "Cables",
                             "type": 1,
                             "level": 1,
-                            "name": "u0643u0627u0628u0644u0627u062a",
-                            "cats": []
-                        },
+                            "name": "u0643u0627u0628u0644u0627u062a"
+                                },
                         {
                             "id": 41,
                             "name_ar": "u0627u062eu0634u0627u0628",
@@ -2511,9 +2378,8 @@
                                     "name_en": "wood",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u062eu0634u0628 u0632u0627u0646",
-                                    "cats": []
-                                }
+                                    "name": "u062eu0634u0628 u0632u0627u0646"
+                                                }
                             ]
                         }
                     ],
@@ -2586,8 +2452,7 @@
                         "key": "u0627u062cu0645u0627u0644u064a u0627u0644u0645u062au0631 u0627u0644u0645u0633u0637u062d",
                         "value": "125"
                     }
-                ],
-                "tags": []
+                ]
             },
             {
                 "id": 324,
@@ -2627,8 +2492,7 @@
                     "name_en": "Cables",
                     "type": 1,
                     "level": 1,
-                    "name": "u0643u0627u0628u0644u0627u062a",
-                    "cats": []
+                    "name": "u0643u0627u0628u0644u0627u062a"
                 },
                 "status": {
                     "id": 18,
@@ -2679,8 +2543,7 @@
                         "show_price": 0,
                         "user_count": 0,
                         "parent_id": 1,
-                        "title": "u0645u0642u0627u0648u0644u0627u062a",
-                        "subTypes": []
+                        "title": "u0645u0642u0627u0648u0644u0627u062a"
                     },
                     "status": 1,
                     "active_status": 1,
@@ -2710,18 +2573,16 @@
                             "name_en": "Electrical",
                             "type": 1,
                             "level": 1,
-                            "name": "u0643u0647u0631u0628u0627u0621",
-                            "cats": []
-                        },
+                            "name": "u0643u0647u0631u0628u0627u0621"
+                                },
                         {
                             "id": 103,
                             "name_ar": "u0643u0627u0628u0644u0627u062a",
                             "name_en": "Cables",
                             "type": 1,
                             "level": 1,
-                            "name": "u0643u0627u0628u0644u0627u062a",
-                            "cats": []
-                        },
+                            "name": "u0643u0627u0628u0644u0627u062a"
+                                },
                         {
                             "id": 1,
                             "name_ar": "u0646u062du0627u0633",
@@ -2736,36 +2597,32 @@
                                     "name_en": "piece",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u0633u0628u064au0643u0647",
-                                    "cats": []
-                                },
+                                    "name": "u0633u0628u064au0643u0647"
+                                                },
                                 {
                                     "id": 4,
                                     "name_ar": "u062eu0627u0645",
                                     "name_en": "normal",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u062eu0627u0645",
-                                    "cats": []
-                                },
+                                    "name": "u062eu0627u0645"
+                                                },
                                 {
                                     "id": 107,
                                     "name_ar": "u0627u062du0645u0631",
                                     "name_en": "red",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u0627u062du0645u0631",
-                                    "cats": []
-                                },
+                                    "name": "u0627u062du0645u0631"
+                                                },
                                 {
                                     "id": 108,
                                     "name_ar": "u0627u0635u0641u0631",
                                     "name_en": "yellow",
                                     "type": 1,
                                     "level": 2,
-                                    "name": "u0627u0635u0641u0631",
-                                    "cats": []
-                                }
+                                    "name": "u0627u0635u0641u0631"
+                                                }
                             ]
                         }
                     ],
@@ -2792,9 +2649,8 @@
                         "id": 456,
                         "image": "https://masafaapp.com/api/images/Product/11492194701709208224.jpg"
                     }
-                ],
-                "adds": [],
-                "tags": []
+                ]
+        
             }
         ],
         "pagination": {

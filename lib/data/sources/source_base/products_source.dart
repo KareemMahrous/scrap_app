@@ -1,5 +1,4 @@
 abstract class ProductsSource {
   Future<Map<String, dynamic>> productsSource();
-  // Future<Map<String, dynamic>> productDetails();
-
+  Future<Map<String, dynamic>> productDetails();
 }

@@ -11,4 +11,11 @@ class ProductsSourceImpl implements ProductsSource {
 
     return response;
   }
+
+  @override
+  Future<Map<String, dynamic>> productDetails() async {
+    final json = await rootBundle.loadString("assets/jsons/product.json"); 
+    final Map<String, dynamic> response = jsonDecode(json);
+    return response;
+  }
 }
