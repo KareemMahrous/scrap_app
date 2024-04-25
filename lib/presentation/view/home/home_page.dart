@@ -10,38 +10,41 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(
-        children: [
-          SizedBox(
-            height: MediaQuery.of(context).size.height * 0.70,
-            child: BlocBuilder<ProductsCubit, ProductsState>(
-              builder: (context, state) {
-                return state.when(
-                  loading: () =>
-                      const Center(child: CircularProgressIndicator()),
-                  success: (products) {
-                    return ListView.builder(
-                        scrollDirection: Axis.horizontal,
-                        itemCount: products.data!.length,
-                        itemBuilder: (context, index) {
-                          final product = products.data![index];
-                          return ProductCard(
-                              image:
-                                  "https://masafaapp.com/api/images/Product/17055201911711977278.jpeg",
-                              label: product.name ?? "null",
-                              itemName: product.price ?? 'null',
-                              description: " product.description ?? 'null'",
-                              quantity: product.quantity ?? 'null',
-                              number: product.id.toString(),
-                              color: red);
-                        });
-                  },
-                );
-              },
+      body: SafeArea(
+        child: Column(
+          children: [
+            SizedBox(
+              height: MediaQuery.of(context).size.height * 0.65,
+              child: BlocBuilder<ProductsCubit, ProductsState>(
+                builder: (context, state) {
+                  return state.when(
+                    loading: () =>
+                        const Center(child: CircularProgressIndicator()),
+                    success: (products) {
+                      return ListView.builder(
+                          scrollDirection: Axis.horizontal,
+                          itemCount: products.data!.length,
+                          itemBuilder: (context, index) {
+                            final product = products.data![index];
+                            return ProductCard(
+                                image:
+                                    "https://masafaapp.com/api/images/Product/17055201911711977278.jpeg",
+                                label: product.name ?? "null",
+                                itemName: product.price ?? 'null',
+                                description:
+                                    " product.description ?? 'nullllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll'",
+                                quantity: product.quantity ?? 'null',
+                                number: product.id.toString(),
+                                color: red);
+                          });
+                    },
+                  );
+                },
+              ),
             ),
-          ),
-          const Text('wwwwwwwwwwww')
-        ],
+            const Text('wwwwwwwwwwww')
+          ],
+        ),
       ),
     );
   }
