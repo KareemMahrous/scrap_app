@@ -10,4 +10,11 @@ class CategorySourceImplementation implements CategorySource {
     final Map<String, dynamic> response = jsonDecode(json);
     return response;
   }
+
+  @override
+  Future<Map<String, dynamic>> categorySourceDetails() async {
+    final json = await rootBundle.loadString('assets/jsons/category.json');
+    final Map<String, dynamic> response = jsonDecode(json);
+    return response;
+  }
 }
